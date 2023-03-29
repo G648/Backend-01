@@ -50,6 +50,13 @@ Console.WriteLine(5 != 6);
 // || = ou
 // ! = não
 
+Console.WriteLine(5 == 5 && 5 == 5); //verdadeiro e verdadeiro
+Console.WriteLine(5 == 5 || 5 == 6); // verdadeiro e falso == verdadeiro
+Console.WriteLine(! (5 == 5 || 4 == 4 ));
+
+
+
+
 //crie  um progrma para calcular o IMC de uma pessoa
 //entrada: nome, idade, peso, altura
 //processamento: peso dividido pela altura ao quadrado
@@ -64,3 +71,4 @@ float altura = 1.85f;
 
 float imc = peso / (altura*altura);
 Console.WriteLine("o imc do usuário "+nome +" é de: " + Math.Round(imc, 2)); //método usado para mostrar apenas algumas casas decimais após a virgula;
+
