@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Projeto-Calculo-Media-Alunos/1.0.0": {
+        "runtime": {
+          "Projeto-Calculo-Media-Alunos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projeto-Calculo-Media-Alunos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\45845444845\Desktop\Backend-01\Projeto-Calculo-Media-Alunos\bin\Debug\net7.0\Projeto-Calculo-Media-Alunos.exe
+C:\Users\45845444845\Desktop\Backend-01\Projeto-Calculo-Media-Alunos\bin\Debug\net7.0\Projeto-Calculo-Media-Alunos.deps.json
+C:\Users\45845444845\Desktop\Backend-01\Projeto-Calculo-Media-Alunos\bin\Debug\net7.0\Projeto-Calculo-Media-Alunos.runtimeconfig.json
+C:\Users\45845444845\Desktop\Backend-01\Projeto-Calculo-Media-Alunos\bin\Debug\net7.0\Projeto-Calculo-Media-Alunos.dll
+C:\Users\45845444845\Desktop\Backend-01\Projeto-Calculo-Media-Alunos\bin\Debug\net7.0\Projeto-Calculo-Media-Alunos.pdb
+C:\Users\45845444845\Desktop\Backend-01\Projeto-Calculo-Media-Alunos\obj\Debug\net7.0\Projeto-Calculo-Media-Alunos.csproj.AssemblyReference.cache
+C:\Users\45845444845\Desktop\Backend-01\Projeto-Calculo-Media-Alunos\obj\Debug\net7.0\Projeto-Calculo-Media-Alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45845444845\Desktop\Backend-01\Projeto-Calculo-Media-Alunos\obj\Debug\net7.0\Projeto-Calculo-Media-Alunos.AssemblyInfoInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Projeto-Calculo-Media-Alunos\obj\Debug\net7.0\Projeto-Calculo-Media-Alunos.AssemblyInfo.cs
+C:\Users\45845444845\Desktop\Backend-01\Projeto-Calculo-Media-Alunos\obj\Debug\net7.0\Projeto-Calculo-Media-Alunos.csproj.CoreCompileInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Projeto-Calculo-Media-Alunos\obj\Debug\net7.0\Projeto-Calculo-Media-Alunos.dll
+C:\Users\45845444845\Desktop\Backend-01\Projeto-Calculo-Media-Alunos\obj\Debug\net7.0\refint\Projeto-Calculo-Media-Alunos.dll
+C:\Users\45845444845\Desktop\Backend-01\Projeto-Calculo-Media-Alunos\obj\Debug\net7.0\Projeto-Calculo-Media-Alunos.pdb
+C:\Users\45845444845\Desktop\Backend-01\Projeto-Calculo-Media-Alunos\obj\Debug\net7.0\Projeto-Calculo-Media-Alunos.genruntimeconfig.cache
+C:\Users\45845444845\Desktop\Backend-01\Projeto-Calculo-Media-Alunos\obj\Debug\net7.0\ref\Projeto-Calculo-Media-Alunos.dll

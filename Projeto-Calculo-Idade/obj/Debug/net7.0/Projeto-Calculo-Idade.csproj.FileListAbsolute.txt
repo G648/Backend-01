@@ -1,0 +1,15 @@
+C:\Users\45845444845\Desktop\Backend-01\Projeto-Calculo-Idade\bin\Debug\net7.0\Projeto-Calculo-Idade.exe
+C:\Users\45845444845\Desktop\Backend-01\Projeto-Calculo-Idade\bin\Debug\net7.0\Projeto-Calculo-Idade.deps.json
+C:\Users\45845444845\Desktop\Backend-01\Projeto-Calculo-Idade\bin\Debug\net7.0\Projeto-Calculo-Idade.runtimeconfig.json
+C:\Users\45845444845\Desktop\Backend-01\Projeto-Calculo-Idade\bin\Debug\net7.0\Projeto-Calculo-Idade.dll
+C:\Users\45845444845\Desktop\Backend-01\Projeto-Calculo-Idade\bin\Debug\net7.0\Projeto-Calculo-Idade.pdb
+C:\Users\45845444845\Desktop\Backend-01\Projeto-Calculo-Idade\obj\Debug\net7.0\Projeto-Calculo-Idade.csproj.AssemblyReference.cache
+C:\Users\45845444845\Desktop\Backend-01\Projeto-Calculo-Idade\obj\Debug\net7.0\Projeto-Calculo-Idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45845444845\Desktop\Backend-01\Projeto-Calculo-Idade\obj\Debug\net7.0\Projeto-Calculo-Idade.AssemblyInfoInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Projeto-Calculo-Idade\obj\Debug\net7.0\Projeto-Calculo-Idade.AssemblyInfo.cs
+C:\Users\45845444845\Desktop\Backend-01\Projeto-Calculo-Idade\obj\Debug\net7.0\Projeto-Calculo-Idade.csproj.CoreCompileInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Projeto-Calculo-Idade\obj\Debug\net7.0\Projeto-Calculo-Idade.dll
+C:\Users\45845444845\Desktop\Backend-01\Projeto-Calculo-Idade\obj\Debug\net7.0\refint\Projeto-Calculo-Idade.dll
+C:\Users\45845444845\Desktop\Backend-01\Projeto-Calculo-Idade\obj\Debug\net7.0\Projeto-Calculo-Idade.pdb
+C:\Users\45845444845\Desktop\Backend-01\Projeto-Calculo-Idade\obj\Debug\net7.0\Projeto-Calculo-Idade.genruntimeconfig.cache
+C:\Users\45845444845\Desktop\Backend-01\Projeto-Calculo-Idade\obj\Debug\net7.0\ref\Projeto-Calculo-Idade.dll

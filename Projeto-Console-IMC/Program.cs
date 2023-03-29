@@ -13,7 +13,7 @@ Console.ResetColor();
 Console.WriteLine($"informe o nome do paciente: ");
 string nome = Console.ReadLine();
 
-Console.WriteLine($"informe o peso do paciente: ");
+Console.WriteLine($"informe o peso do paciente: "); 
 float peso = float.Parse(Console.ReadLine());
 
 Console.WriteLine($"informe a altura do paciente: ");
