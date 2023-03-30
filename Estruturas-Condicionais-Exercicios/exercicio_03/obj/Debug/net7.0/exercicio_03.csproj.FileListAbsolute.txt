@@ -1,0 +1,15 @@
+C:\Users\45845444845\Desktop\Backend-01\Estruturas-Condicionais-Exercicios\exercicio_03\bin\Debug\net7.0\exercicio_03.exe
+C:\Users\45845444845\Desktop\Backend-01\Estruturas-Condicionais-Exercicios\exercicio_03\bin\Debug\net7.0\exercicio_03.deps.json
+C:\Users\45845444845\Desktop\Backend-01\Estruturas-Condicionais-Exercicios\exercicio_03\bin\Debug\net7.0\exercicio_03.runtimeconfig.json
+C:\Users\45845444845\Desktop\Backend-01\Estruturas-Condicionais-Exercicios\exercicio_03\bin\Debug\net7.0\exercicio_03.dll
+C:\Users\45845444845\Desktop\Backend-01\Estruturas-Condicionais-Exercicios\exercicio_03\bin\Debug\net7.0\exercicio_03.pdb
+C:\Users\45845444845\Desktop\Backend-01\Estruturas-Condicionais-Exercicios\exercicio_03\obj\Debug\net7.0\exercicio_03.csproj.AssemblyReference.cache
+C:\Users\45845444845\Desktop\Backend-01\Estruturas-Condicionais-Exercicios\exercicio_03\obj\Debug\net7.0\exercicio_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45845444845\Desktop\Backend-01\Estruturas-Condicionais-Exercicios\exercicio_03\obj\Debug\net7.0\exercicio_03.AssemblyInfoInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Estruturas-Condicionais-Exercicios\exercicio_03\obj\Debug\net7.0\exercicio_03.AssemblyInfo.cs
+C:\Users\45845444845\Desktop\Backend-01\Estruturas-Condicionais-Exercicios\exercicio_03\obj\Debug\net7.0\exercicio_03.csproj.CoreCompileInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Estruturas-Condicionais-Exercicios\exercicio_03\obj\Debug\net7.0\exercicio_03.dll
+C:\Users\45845444845\Desktop\Backend-01\Estruturas-Condicionais-Exercicios\exercicio_03\obj\Debug\net7.0\refint\exercicio_03.dll
+C:\Users\45845444845\Desktop\Backend-01\Estruturas-Condicionais-Exercicios\exercicio_03\obj\Debug\net7.0\exercicio_03.pdb
+C:\Users\45845444845\Desktop\Backend-01\Estruturas-Condicionais-Exercicios\exercicio_03\obj\Debug\net7.0\exercicio_03.genruntimeconfig.cache
+C:\Users\45845444845\Desktop\Backend-01\Estruturas-Condicionais-Exercicios\exercicio_03\obj\Debug\net7.0\ref\exercicio_03.dll

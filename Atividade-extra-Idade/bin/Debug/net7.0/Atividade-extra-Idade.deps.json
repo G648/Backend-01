@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Atividade-extra-Idade/1.0.0": {
+        "runtime": {
+          "Atividade-extra-Idade.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atividade-extra-Idade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

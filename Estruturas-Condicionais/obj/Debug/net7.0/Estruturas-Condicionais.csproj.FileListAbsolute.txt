@@ -1,0 +1,15 @@
+C:\Users\45845444845\Desktop\Backend-01\Estruturas-Condicionais\bin\Debug\net7.0\Estruturas-Condicionais.exe
+C:\Users\45845444845\Desktop\Backend-01\Estruturas-Condicionais\bin\Debug\net7.0\Estruturas-Condicionais.deps.json
+C:\Users\45845444845\Desktop\Backend-01\Estruturas-Condicionais\bin\Debug\net7.0\Estruturas-Condicionais.runtimeconfig.json
+C:\Users\45845444845\Desktop\Backend-01\Estruturas-Condicionais\bin\Debug\net7.0\Estruturas-Condicionais.dll
+C:\Users\45845444845\Desktop\Backend-01\Estruturas-Condicionais\bin\Debug\net7.0\Estruturas-Condicionais.pdb
+C:\Users\45845444845\Desktop\Backend-01\Estruturas-Condicionais\obj\Debug\net7.0\Estruturas-Condicionais.csproj.AssemblyReference.cache
+C:\Users\45845444845\Desktop\Backend-01\Estruturas-Condicionais\obj\Debug\net7.0\Estruturas-Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45845444845\Desktop\Backend-01\Estruturas-Condicionais\obj\Debug\net7.0\Estruturas-Condicionais.AssemblyInfoInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Estruturas-Condicionais\obj\Debug\net7.0\Estruturas-Condicionais.AssemblyInfo.cs
+C:\Users\45845444845\Desktop\Backend-01\Estruturas-Condicionais\obj\Debug\net7.0\Estruturas-Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Estruturas-Condicionais\obj\Debug\net7.0\Estruturas-Condicionais.dll
+C:\Users\45845444845\Desktop\Backend-01\Estruturas-Condicionais\obj\Debug\net7.0\refint\Estruturas-Condicionais.dll
+C:\Users\45845444845\Desktop\Backend-01\Estruturas-Condicionais\obj\Debug\net7.0\Estruturas-Condicionais.pdb
+C:\Users\45845444845\Desktop\Backend-01\Estruturas-Condicionais\obj\Debug\net7.0\Estruturas-Condicionais.genruntimeconfig.cache
+C:\Users\45845444845\Desktop\Backend-01\Estruturas-Condicionais\obj\Debug\net7.0\ref\Estruturas-Condicionais.dll

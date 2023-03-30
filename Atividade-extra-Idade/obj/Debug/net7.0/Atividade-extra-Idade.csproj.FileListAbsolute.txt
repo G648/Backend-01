@@ -1,0 +1,15 @@
+C:\Users\45845444845\Desktop\Backend-01\Atividade-extra-Idade\bin\Debug\net7.0\Atividade-extra-Idade.exe
+C:\Users\45845444845\Desktop\Backend-01\Atividade-extra-Idade\bin\Debug\net7.0\Atividade-extra-Idade.deps.json
+C:\Users\45845444845\Desktop\Backend-01\Atividade-extra-Idade\bin\Debug\net7.0\Atividade-extra-Idade.runtimeconfig.json
+C:\Users\45845444845\Desktop\Backend-01\Atividade-extra-Idade\bin\Debug\net7.0\Atividade-extra-Idade.dll
+C:\Users\45845444845\Desktop\Backend-01\Atividade-extra-Idade\bin\Debug\net7.0\Atividade-extra-Idade.pdb
+C:\Users\45845444845\Desktop\Backend-01\Atividade-extra-Idade\obj\Debug\net7.0\Atividade-extra-Idade.csproj.AssemblyReference.cache
+C:\Users\45845444845\Desktop\Backend-01\Atividade-extra-Idade\obj\Debug\net7.0\Atividade-extra-Idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45845444845\Desktop\Backend-01\Atividade-extra-Idade\obj\Debug\net7.0\Atividade-extra-Idade.AssemblyInfoInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Atividade-extra-Idade\obj\Debug\net7.0\Atividade-extra-Idade.AssemblyInfo.cs
+C:\Users\45845444845\Desktop\Backend-01\Atividade-extra-Idade\obj\Debug\net7.0\Atividade-extra-Idade.csproj.CoreCompileInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Atividade-extra-Idade\obj\Debug\net7.0\Atividade-extra-Idade.dll
+C:\Users\45845444845\Desktop\Backend-01\Atividade-extra-Idade\obj\Debug\net7.0\refint\Atividade-extra-Idade.dll
+C:\Users\45845444845\Desktop\Backend-01\Atividade-extra-Idade\obj\Debug\net7.0\Atividade-extra-Idade.pdb
+C:\Users\45845444845\Desktop\Backend-01\Atividade-extra-Idade\obj\Debug\net7.0\Atividade-extra-Idade.genruntimeconfig.cache
+C:\Users\45845444845\Desktop\Backend-01\Atividade-extra-Idade\obj\Debug\net7.0\ref\Atividade-extra-Idade.dll
