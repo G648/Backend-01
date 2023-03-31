@@ -15,3 +15,12 @@
 //saída de dados
 // se o usuário digitou a senha correta, ele terá o acesso permitido
 // se não, ele terá o acesso negado
+
+int senha = 1234;
+int senhaDigitada;
+
+Console.WriteLine($"Digite aqui a senha para acesso à console de gerenciamento da AWS: ");
+senhaDigitada = int.Parse(Console.ReadLine());
+
+string validacao = (senhaDigitada == 1234) ? "Acesso permitido" : "Acesso negado";
+Console.WriteLine(validacao);
