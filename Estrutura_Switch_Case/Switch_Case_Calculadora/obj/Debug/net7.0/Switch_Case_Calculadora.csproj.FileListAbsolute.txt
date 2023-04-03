@@ -1,0 +1,15 @@
+C:\Users\45845444845\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Calculadora\bin\Debug\net7.0\Switch_Case_Calculadora.exe
+C:\Users\45845444845\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Calculadora\bin\Debug\net7.0\Switch_Case_Calculadora.deps.json
+C:\Users\45845444845\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Calculadora\bin\Debug\net7.0\Switch_Case_Calculadora.runtimeconfig.json
+C:\Users\45845444845\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Calculadora\bin\Debug\net7.0\Switch_Case_Calculadora.dll
+C:\Users\45845444845\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Calculadora\bin\Debug\net7.0\Switch_Case_Calculadora.pdb
+C:\Users\45845444845\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Calculadora\obj\Debug\net7.0\Switch_Case_Calculadora.csproj.AssemblyReference.cache
+C:\Users\45845444845\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Calculadora\obj\Debug\net7.0\Switch_Case_Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45845444845\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Calculadora\obj\Debug\net7.0\Switch_Case_Calculadora.AssemblyInfoInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Calculadora\obj\Debug\net7.0\Switch_Case_Calculadora.AssemblyInfo.cs
+C:\Users\45845444845\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Calculadora\obj\Debug\net7.0\Switch_Case_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Calculadora\obj\Debug\net7.0\Switch_Case_Calculadora.dll
+C:\Users\45845444845\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Calculadora\obj\Debug\net7.0\refint\Switch_Case_Calculadora.dll
+C:\Users\45845444845\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Calculadora\obj\Debug\net7.0\Switch_Case_Calculadora.pdb
+C:\Users\45845444845\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Calculadora\obj\Debug\net7.0\Switch_Case_Calculadora.genruntimeconfig.cache
+C:\Users\45845444845\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Calculadora\obj\Debug\net7.0\ref\Switch_Case_Calculadora.dll
