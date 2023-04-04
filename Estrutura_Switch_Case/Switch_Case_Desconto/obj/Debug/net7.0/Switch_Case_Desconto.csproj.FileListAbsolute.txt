@@ -1,0 +1,15 @@
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Desconto\bin\Debug\net7.0\Switch_Case_Desconto.exe
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Desconto\bin\Debug\net7.0\Switch_Case_Desconto.deps.json
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Desconto\bin\Debug\net7.0\Switch_Case_Desconto.runtimeconfig.json
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Desconto\bin\Debug\net7.0\Switch_Case_Desconto.dll
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Desconto\bin\Debug\net7.0\Switch_Case_Desconto.pdb
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Desconto\obj\Debug\net7.0\Switch_Case_Desconto.csproj.AssemblyReference.cache
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Desconto\obj\Debug\net7.0\Switch_Case_Desconto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Desconto\obj\Debug\net7.0\Switch_Case_Desconto.AssemblyInfoInputs.cache
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Desconto\obj\Debug\net7.0\Switch_Case_Desconto.AssemblyInfo.cs
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Desconto\obj\Debug\net7.0\Switch_Case_Desconto.csproj.CoreCompileInputs.cache
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Desconto\obj\Debug\net7.0\Switch_Case_Desconto.dll
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Desconto\obj\Debug\net7.0\refint\Switch_Case_Desconto.dll
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Desconto\obj\Debug\net7.0\Switch_Case_Desconto.pdb
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Desconto\obj\Debug\net7.0\Switch_Case_Desconto.genruntimeconfig.cache
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Desconto\obj\Debug\net7.0\ref\Switch_Case_Desconto.dll

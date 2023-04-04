@@ -40,21 +40,19 @@ switch (operacao)
 {
     case '+':
         resultado = (num1+num2);
-        Console.WriteLine($"O resultado da soma é de: {resultado}");
         break;
          case '-':
         resultado = (num1-num2);
-        Console.WriteLine($"O resultado da subtração é de: {resultado}");
         break;
          case '*':
         resultado = (num1*num2);
-        Console.WriteLine($"O resultado da multiplicação é de: {resultado}");
         break;
          case '/':
         resultado = (num1/num2);
-        Console.WriteLine($"O resultado da divisão é de: {resultado}");
         break;
     default:
         break;
 }
+ 
+    Console.WriteLine($"O resultado final entre o {num1} e {num2} é de: {resultado}");
  

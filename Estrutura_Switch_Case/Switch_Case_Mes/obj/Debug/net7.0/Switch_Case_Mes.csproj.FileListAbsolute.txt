@@ -1,0 +1,15 @@
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Mes\bin\Debug\net7.0\Switch_Case_Mes.exe
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Mes\bin\Debug\net7.0\Switch_Case_Mes.deps.json
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Mes\bin\Debug\net7.0\Switch_Case_Mes.runtimeconfig.json
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Mes\bin\Debug\net7.0\Switch_Case_Mes.dll
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Mes\bin\Debug\net7.0\Switch_Case_Mes.pdb
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Mes\obj\Debug\net7.0\Switch_Case_Mes.csproj.AssemblyReference.cache
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Mes\obj\Debug\net7.0\Switch_Case_Mes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Mes\obj\Debug\net7.0\Switch_Case_Mes.AssemblyInfoInputs.cache
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Mes\obj\Debug\net7.0\Switch_Case_Mes.AssemblyInfo.cs
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Mes\obj\Debug\net7.0\Switch_Case_Mes.csproj.CoreCompileInputs.cache
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Mes\obj\Debug\net7.0\Switch_Case_Mes.dll
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Mes\obj\Debug\net7.0\refint\Switch_Case_Mes.dll
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Mes\obj\Debug\net7.0\Switch_Case_Mes.pdb
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Mes\obj\Debug\net7.0\Switch_Case_Mes.genruntimeconfig.cache
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Mes\obj\Debug\net7.0\ref\Switch_Case_Mes.dll

@@ -1,0 +1,15 @@
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Taxa_Mortalidade\bin\Debug\net7.0\Switch_Case_Taxa_Mortalidade.exe
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Taxa_Mortalidade\bin\Debug\net7.0\Switch_Case_Taxa_Mortalidade.deps.json
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Taxa_Mortalidade\bin\Debug\net7.0\Switch_Case_Taxa_Mortalidade.runtimeconfig.json
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Taxa_Mortalidade\bin\Debug\net7.0\Switch_Case_Taxa_Mortalidade.dll
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Taxa_Mortalidade\bin\Debug\net7.0\Switch_Case_Taxa_Mortalidade.pdb
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Taxa_Mortalidade\obj\Debug\net7.0\Switch_Case_Taxa_Mortalidade.csproj.AssemblyReference.cache
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Taxa_Mortalidade\obj\Debug\net7.0\Switch_Case_Taxa_Mortalidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Taxa_Mortalidade\obj\Debug\net7.0\Switch_Case_Taxa_Mortalidade.AssemblyInfoInputs.cache
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Taxa_Mortalidade\obj\Debug\net7.0\Switch_Case_Taxa_Mortalidade.AssemblyInfo.cs
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Taxa_Mortalidade\obj\Debug\net7.0\Switch_Case_Taxa_Mortalidade.csproj.CoreCompileInputs.cache
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Taxa_Mortalidade\obj\Debug\net7.0\Switch_Case_Taxa_Mortalidade.dll
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Taxa_Mortalidade\obj\Debug\net7.0\refint\Switch_Case_Taxa_Mortalidade.dll
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Taxa_Mortalidade\obj\Debug\net7.0\Switch_Case_Taxa_Mortalidade.pdb
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Taxa_Mortalidade\obj\Debug\net7.0\Switch_Case_Taxa_Mortalidade.genruntimeconfig.cache
+C:\Users\Docente\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Taxa_Mortalidade\obj\Debug\net7.0\ref\Switch_Case_Taxa_Mortalidade.dll
