@@ -1,0 +1,15 @@
+C:\Users\45845444845\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Menu_Bebidas\bin\Debug\net7.0\Switch_Case_Menu_Bebidas.exe
+C:\Users\45845444845\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Menu_Bebidas\bin\Debug\net7.0\Switch_Case_Menu_Bebidas.deps.json
+C:\Users\45845444845\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Menu_Bebidas\bin\Debug\net7.0\Switch_Case_Menu_Bebidas.runtimeconfig.json
+C:\Users\45845444845\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Menu_Bebidas\bin\Debug\net7.0\Switch_Case_Menu_Bebidas.dll
+C:\Users\45845444845\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Menu_Bebidas\bin\Debug\net7.0\Switch_Case_Menu_Bebidas.pdb
+C:\Users\45845444845\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Menu_Bebidas\obj\Debug\net7.0\Switch_Case_Menu_Bebidas.csproj.AssemblyReference.cache
+C:\Users\45845444845\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Menu_Bebidas\obj\Debug\net7.0\Switch_Case_Menu_Bebidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45845444845\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Menu_Bebidas\obj\Debug\net7.0\Switch_Case_Menu_Bebidas.AssemblyInfoInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Menu_Bebidas\obj\Debug\net7.0\Switch_Case_Menu_Bebidas.AssemblyInfo.cs
+C:\Users\45845444845\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Menu_Bebidas\obj\Debug\net7.0\Switch_Case_Menu_Bebidas.csproj.CoreCompileInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Menu_Bebidas\obj\Debug\net7.0\Switch_Case_Menu_Bebidas.dll
+C:\Users\45845444845\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Menu_Bebidas\obj\Debug\net7.0\refint\Switch_Case_Menu_Bebidas.dll
+C:\Users\45845444845\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Menu_Bebidas\obj\Debug\net7.0\Switch_Case_Menu_Bebidas.pdb
+C:\Users\45845444845\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Menu_Bebidas\obj\Debug\net7.0\Switch_Case_Menu_Bebidas.genruntimeconfig.cache
+C:\Users\45845444845\Desktop\Backend-01\Estrutura_Switch_Case\Switch_Case_Menu_Bebidas\obj\Debug\net7.0\ref\Switch_Case_Menu_Bebidas.dll
