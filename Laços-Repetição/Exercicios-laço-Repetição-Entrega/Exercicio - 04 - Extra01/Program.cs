@@ -15,44 +15,83 @@
 // A porcentagem de homens que responderam NÃO entre todos
 
 // E.    
-// os homens analisados.
+// quantidade de homens que responderam não.
 
 
 Console.Clear();
 
 //variáveis
 char sexoUsuario;
-int sexoUsuarioM = 0;
-int sexoUsuarioF = 0;
-string respostaUsuario;
-bool respostaSexo = true;
+char gostouDoProduto;
+
+int totalSim = 0;
+int totalNao = 0;
+
+int totalMulheresSim = 0;
+int totalHomensSim = 0;
+
+int totalHomenNao = 0;
+
+int totalMulher = 0;
+int totalHomen = 0;
+
+double porcentagemHomensNao = 0;
 
 Console.WriteLine($"Seja bem vindo ao meu programa de entrevistas:");
 
 
-for (var i = 0; i <= 10; i++)
+for (var i = 1; i <= 10; i++)
 {
     Console.WriteLine($"Informe o seu sexo: M - para masculino e F - para feminino:");
     sexoUsuario = char.Parse(Console.ReadLine().ToUpper());
 
-    switch (sexoUsuario)
+    if (sexoUsuario == 'f')
     {
-        case 'M':
-            sexoUsuarioM++;
-
-            Console.WriteLine($"Voce gostou no nosso produto ? Digite sim ou não para avaliar o nosso produto");
-            respostaUsuario = Console.ReadLine();
-            break;
-        case 'F':
-            sexoUsuarioF++;
-
-            Console.WriteLine($"Voce gostou no nosso produto ? Digite sim ou não para avaliar o nosso produto");
-            respostaUsuario = Console.ReadLine();
-            break;
-        default:
-            Console.WriteLine($"digite um valor válido: M ou F");
-            break;
+        totalMulher++;
     }
+    else if (sexoUsuario == 'm')
+    {
+        totalHomen++;
+    }
+
+    //entrada de dados
+
+    Console.WriteLine($"A pessoa gostou da pesquisa ? S - sim e N - não");
+
+    gostouDoProduto = char.Parse(Console.ReadLine());
+
+    if (gostouDoProduto == 'S')
+    {
+        totalSim++;
+
+        if (sexoUsuario == 'f')
+        {
+            totalMulheresSim++;
+        }
+    }
+    else if (gostouDoProduto == 'N'){
+        totalNao++;
+
+        if (sexoUsuario == 'M')
+        {
+            totalHomenNao++;
+        }
+    }
+
 
 }
 
+//processamento
+
+porcentagemHomensNao = Math.Round(((double)totalHomenNao/(double)totalHomen)*100);
+
+//saida de dados
+
+Console.WriteLine($"A quantidade de pessoas que responderam sim foi de: {totalSim}");
+
+Console.WriteLine($"O total de pessoas que responderam não foi de: {totalNao}");
+
+Console.WriteLine($"O total de mulheres que responderam sim foi de: {totalMulheresSim}");
+
+
+Console.WriteLine($"A porcentagem de pessoas homens de responderam não, foi de: {porcentagemHomensNao}");
