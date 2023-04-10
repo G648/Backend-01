@@ -1,0 +1,15 @@
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 02 - usuário e senha\bin\Debug\net7.0\Exercicio - 02 - usuário e senha.exe
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 02 - usuário e senha\bin\Debug\net7.0\Exercicio - 02 - usuário e senha.deps.json
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 02 - usuário e senha\bin\Debug\net7.0\Exercicio - 02 - usuário e senha.runtimeconfig.json
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 02 - usuário e senha\bin\Debug\net7.0\Exercicio - 02 - usuário e senha.dll
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 02 - usuário e senha\bin\Debug\net7.0\Exercicio - 02 - usuário e senha.pdb
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 02 - usuário e senha\obj\Debug\net7.0\Exercicio - 02 - usuário e senha.csproj.AssemblyReference.cache
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 02 - usuário e senha\obj\Debug\net7.0\Exercicio - 02 - usuário e senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 02 - usuário e senha\obj\Debug\net7.0\Exercicio - 02 - usuário e senha.AssemblyInfoInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 02 - usuário e senha\obj\Debug\net7.0\Exercicio - 02 - usuário e senha.AssemblyInfo.cs
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 02 - usuário e senha\obj\Debug\net7.0\Exercicio - 02 - usuário e senha.csproj.CoreCompileInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 02 - usuário e senha\obj\Debug\net7.0\Exercicio - 02 - usuário e senha.dll
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 02 - usuário e senha\obj\Debug\net7.0\refint\Exercicio - 02 - usuário e senha.dll
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 02 - usuário e senha\obj\Debug\net7.0\Exercicio - 02 - usuário e senha.pdb
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 02 - usuário e senha\obj\Debug\net7.0\Exercicio - 02 - usuário e senha.genruntimeconfig.cache
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 02 - usuário e senha\obj\Debug\net7.0\ref\Exercicio - 02 - usuário e senha.dll

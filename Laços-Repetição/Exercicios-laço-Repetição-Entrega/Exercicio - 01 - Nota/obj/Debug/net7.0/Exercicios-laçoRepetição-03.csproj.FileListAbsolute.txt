@@ -1,0 +1,15 @@
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laçoRepetição-03\bin\Debug\net7.0\Exercicios-laçoRepetição-03.exe
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laçoRepetição-03\bin\Debug\net7.0\Exercicios-laçoRepetição-03.deps.json
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laçoRepetição-03\bin\Debug\net7.0\Exercicios-laçoRepetição-03.runtimeconfig.json
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laçoRepetição-03\bin\Debug\net7.0\Exercicios-laçoRepetição-03.dll
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laçoRepetição-03\bin\Debug\net7.0\Exercicios-laçoRepetição-03.pdb
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laçoRepetição-03\obj\Debug\net7.0\Exercicios-laçoRepetição-03.csproj.AssemblyReference.cache
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laçoRepetição-03\obj\Debug\net7.0\Exercicios-laçoRepetição-03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laçoRepetição-03\obj\Debug\net7.0\Exercicios-laçoRepetição-03.AssemblyInfoInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laçoRepetição-03\obj\Debug\net7.0\Exercicios-laçoRepetição-03.AssemblyInfo.cs
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laçoRepetição-03\obj\Debug\net7.0\Exercicios-laçoRepetição-03.csproj.CoreCompileInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laçoRepetição-03\obj\Debug\net7.0\Exercicios-laçoRepetição-03.dll
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laçoRepetição-03\obj\Debug\net7.0\refint\Exercicios-laçoRepetição-03.dll
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laçoRepetição-03\obj\Debug\net7.0\Exercicios-laçoRepetição-03.pdb
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laçoRepetição-03\obj\Debug\net7.0\Exercicios-laçoRepetição-03.genruntimeconfig.cache
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laçoRepetição-03\obj\Debug\net7.0\ref\Exercicios-laçoRepetição-03.dll
