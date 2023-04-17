@@ -1,0 +1,15 @@
+C:\Users\45845444845\Desktop\Backend-01\Projeto_Console_C#\Projeto01-Passagens_Aereas\bin\Debug\net7.0\Projeto01-Passagens_Aereas.exe
+C:\Users\45845444845\Desktop\Backend-01\Projeto_Console_C#\Projeto01-Passagens_Aereas\bin\Debug\net7.0\Projeto01-Passagens_Aereas.deps.json
+C:\Users\45845444845\Desktop\Backend-01\Projeto_Console_C#\Projeto01-Passagens_Aereas\bin\Debug\net7.0\Projeto01-Passagens_Aereas.runtimeconfig.json
+C:\Users\45845444845\Desktop\Backend-01\Projeto_Console_C#\Projeto01-Passagens_Aereas\bin\Debug\net7.0\Projeto01-Passagens_Aereas.dll
+C:\Users\45845444845\Desktop\Backend-01\Projeto_Console_C#\Projeto01-Passagens_Aereas\bin\Debug\net7.0\Projeto01-Passagens_Aereas.pdb
+C:\Users\45845444845\Desktop\Backend-01\Projeto_Console_C#\Projeto01-Passagens_Aereas\obj\Debug\net7.0\Projeto01-Passagens_Aereas.csproj.AssemblyReference.cache
+C:\Users\45845444845\Desktop\Backend-01\Projeto_Console_C#\Projeto01-Passagens_Aereas\obj\Debug\net7.0\Projeto01-Passagens_Aereas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45845444845\Desktop\Backend-01\Projeto_Console_C#\Projeto01-Passagens_Aereas\obj\Debug\net7.0\Projeto01-Passagens_Aereas.AssemblyInfoInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Projeto_Console_C#\Projeto01-Passagens_Aereas\obj\Debug\net7.0\Projeto01-Passagens_Aereas.AssemblyInfo.cs
+C:\Users\45845444845\Desktop\Backend-01\Projeto_Console_C#\Projeto01-Passagens_Aereas\obj\Debug\net7.0\Projeto01-Passagens_Aereas.csproj.CoreCompileInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Projeto_Console_C#\Projeto01-Passagens_Aereas\obj\Debug\net7.0\Projeto01-Passagens_Aereas.dll
+C:\Users\45845444845\Desktop\Backend-01\Projeto_Console_C#\Projeto01-Passagens_Aereas\obj\Debug\net7.0\refint\Projeto01-Passagens_Aereas.dll
+C:\Users\45845444845\Desktop\Backend-01\Projeto_Console_C#\Projeto01-Passagens_Aereas\obj\Debug\net7.0\Projeto01-Passagens_Aereas.pdb
+C:\Users\45845444845\Desktop\Backend-01\Projeto_Console_C#\Projeto01-Passagens_Aereas\obj\Debug\net7.0\Projeto01-Passagens_Aereas.genruntimeconfig.cache
+C:\Users\45845444845\Desktop\Backend-01\Projeto_Console_C#\Projeto01-Passagens_Aereas\obj\Debug\net7.0\ref\Projeto01-Passagens_Aereas.dll

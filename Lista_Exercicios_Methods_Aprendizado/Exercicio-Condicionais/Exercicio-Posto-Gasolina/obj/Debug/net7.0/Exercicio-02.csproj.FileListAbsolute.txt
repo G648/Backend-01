@@ -1,0 +1,15 @@
+C:\Users\45845444845\Desktop\Backend-01\Lista_Exercicios_Aprendizado\Exercicio-Condicionais\Exercicio-02\bin\Debug\net7.0\Exercicio-02.exe
+C:\Users\45845444845\Desktop\Backend-01\Lista_Exercicios_Aprendizado\Exercicio-Condicionais\Exercicio-02\bin\Debug\net7.0\Exercicio-02.deps.json
+C:\Users\45845444845\Desktop\Backend-01\Lista_Exercicios_Aprendizado\Exercicio-Condicionais\Exercicio-02\bin\Debug\net7.0\Exercicio-02.runtimeconfig.json
+C:\Users\45845444845\Desktop\Backend-01\Lista_Exercicios_Aprendizado\Exercicio-Condicionais\Exercicio-02\bin\Debug\net7.0\Exercicio-02.dll
+C:\Users\45845444845\Desktop\Backend-01\Lista_Exercicios_Aprendizado\Exercicio-Condicionais\Exercicio-02\bin\Debug\net7.0\Exercicio-02.pdb
+C:\Users\45845444845\Desktop\Backend-01\Lista_Exercicios_Aprendizado\Exercicio-Condicionais\Exercicio-02\obj\Debug\net7.0\Exercicio-02.csproj.AssemblyReference.cache
+C:\Users\45845444845\Desktop\Backend-01\Lista_Exercicios_Aprendizado\Exercicio-Condicionais\Exercicio-02\obj\Debug\net7.0\Exercicio-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45845444845\Desktop\Backend-01\Lista_Exercicios_Aprendizado\Exercicio-Condicionais\Exercicio-02\obj\Debug\net7.0\Exercicio-02.AssemblyInfoInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Lista_Exercicios_Aprendizado\Exercicio-Condicionais\Exercicio-02\obj\Debug\net7.0\Exercicio-02.AssemblyInfo.cs
+C:\Users\45845444845\Desktop\Backend-01\Lista_Exercicios_Aprendizado\Exercicio-Condicionais\Exercicio-02\obj\Debug\net7.0\Exercicio-02.csproj.CoreCompileInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Lista_Exercicios_Aprendizado\Exercicio-Condicionais\Exercicio-02\obj\Debug\net7.0\Exercicio-02.dll
+C:\Users\45845444845\Desktop\Backend-01\Lista_Exercicios_Aprendizado\Exercicio-Condicionais\Exercicio-02\obj\Debug\net7.0\refint\Exercicio-02.dll
+C:\Users\45845444845\Desktop\Backend-01\Lista_Exercicios_Aprendizado\Exercicio-Condicionais\Exercicio-02\obj\Debug\net7.0\Exercicio-02.pdb
+C:\Users\45845444845\Desktop\Backend-01\Lista_Exercicios_Aprendizado\Exercicio-Condicionais\Exercicio-02\obj\Debug\net7.0\Exercicio-02.genruntimeconfig.cache
+C:\Users\45845444845\Desktop\Backend-01\Lista_Exercicios_Aprendizado\Exercicio-Condicionais\Exercicio-02\obj\Debug\net7.0\ref\Exercicio-02.dll
