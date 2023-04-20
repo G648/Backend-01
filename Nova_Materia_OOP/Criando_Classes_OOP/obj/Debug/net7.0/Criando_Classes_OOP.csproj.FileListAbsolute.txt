@@ -1,0 +1,15 @@
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Criando_Classes_OOP\bin\Debug\net7.0\Criando_Classes_OOP.exe
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Criando_Classes_OOP\bin\Debug\net7.0\Criando_Classes_OOP.deps.json
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Criando_Classes_OOP\bin\Debug\net7.0\Criando_Classes_OOP.runtimeconfig.json
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Criando_Classes_OOP\bin\Debug\net7.0\Criando_Classes_OOP.dll
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Criando_Classes_OOP\bin\Debug\net7.0\Criando_Classes_OOP.pdb
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Criando_Classes_OOP\obj\Debug\net7.0\Criando_Classes_OOP.csproj.AssemblyReference.cache
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Criando_Classes_OOP\obj\Debug\net7.0\Criando_Classes_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Criando_Classes_OOP\obj\Debug\net7.0\Criando_Classes_OOP.AssemblyInfoInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Criando_Classes_OOP\obj\Debug\net7.0\Criando_Classes_OOP.AssemblyInfo.cs
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Criando_Classes_OOP\obj\Debug\net7.0\Criando_Classes_OOP.csproj.CoreCompileInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Criando_Classes_OOP\obj\Debug\net7.0\Criando_Classes_OOP.dll
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Criando_Classes_OOP\obj\Debug\net7.0\refint\Criando_Classes_OOP.dll
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Criando_Classes_OOP\obj\Debug\net7.0\Criando_Classes_OOP.pdb
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Criando_Classes_OOP\obj\Debug\net7.0\Criando_Classes_OOP.genruntimeconfig.cache
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Criando_Classes_OOP\obj\Debug\net7.0\ref\Criando_Classes_OOP.dll

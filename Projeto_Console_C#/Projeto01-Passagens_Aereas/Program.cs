@@ -18,14 +18,11 @@
 
 //saida de dados
 
-internal class Program
+using System;
+using Projeto01_Passagens_Aereas;
 
-{
-    private static void Main(string[] args)
-    {
-        // realizar a contrução do menu:
-        Console.Clear();
-        Console.WriteLine(@$"Programa de cadastro de passagens
+Console.Clear();
+Console.WriteLine(@$"Programa de cadastro de passagens
 ---------------------------------------------------
 |             Selecione um valor:                  |
 |       1- Cadastrar Passagem Aerea;               |
@@ -34,68 +31,83 @@ internal class Program
 ---------------------------------------------------
 ");
 
-        //realizando o processamento de dados:
+//realizando o processamento de dados:
 
-        //variáveis
-        int escolhaUsuario;
-        string senhaDeAcesso;
+//variáveis
+int escolhaUsuario;
+string senhaDeAcesso;
 
-        //validação de senha
-        Console.WriteLine($"Primeiramente, digite a sua senha de acesso ao programa;");
-        senhaDeAcesso = Console.ReadLine();
+//validação de senha
+Console.WriteLine($"Primeiramente, digite a sua senha de acesso ao programa;");
+senhaDeAcesso = Console.ReadLine();
 
+do
+{
+    Console.WriteLine($"Senha inválida, por gentileza, digite a senha novamente");
+    senhaDeAcesso = Console.ReadLine();
+
+} while (senhaDeAcesso != "123456");
+
+//escolhendo as opções do menu
+
+Console.WriteLine($"Autenticação realizada com sucesso!");
+
+//linkando com meu arquivo de métodos (método carregamento)
+Utils.Carregamento();
+
+Console.Clear();
+Console.WriteLine(@$"seja bem vindo ao programa de cadastro de passagens
+
+---------------------------------------------------
+|             Selecione um valor:                  |
+|       1- Cadastrar Passagem Aerea;               |
+|       2- Listagem de passagem Aerea;             |
+|       3- Sair do programa de passgens;           |
+---------------------------------------------------
+");
+
+
+Console.WriteLine($"Por gentileza, informe opção 1 - Cadastrar passagens, 2 - Listagem de passagem ou 3 - sair do programa");
+escolhaUsuario = int.Parse(Console.ReadLine());
+
+Utils.Carregamento();
+
+switch (escolhaUsuario)
+{
+    case 1:
+             
         do
         {
-            Console.WriteLine($"Senha inválida, por gentileza, digite a senha novamente");
-            senhaDeAcesso = Console.ReadLine();
+            Utils.CadastroPassagens();
 
-        } while (senhaDeAcesso != "123456");
+            
+        } while (escolhaUsuario != 1);
 
-        //escolhendo as opções do menu
-
-        Console.WriteLine($"Autenticação realizada com sucesso!");
-
-        Console.Write($"Carregando");
-
-        for (var i = 0; i < 5; i++)
-        {
-            Console.Write($".");
-            Thread.Sleep(800);
-        }
-
-        Console.Clear();
-        Console.WriteLine(@$"seja bem vindo ao programa de cadastro de passagens
-
----------------------------------------------------
-|             Selecione um valor:                  |
-|       1- Cadastrar Passagem Aerea;               |
-|       2- Listagem de passagem Aerea;             |
-|       3- Sair do programa de passgens;           |
----------------------------------------------------
-");
-
-
-        Console.WriteLine($"Por gentileza, informe opção 1 - Cadastrar passagens, 2 - Listagem de passagem ou 3 - sair do programa");
-        escolhaUsuario = int.Parse(Console.ReadLine());
-
-        switch (escolhaUsuario)
-        {
-            case 1:
-                Console.WriteLine(@$"Voce decidiu realizar o cadastro de passagem Aerea. Por favor, informe:
-        1- Origem;
-        2- Destino;
-        3- Data/hora de saída;
-        4- Tipo de voo (classe economica ou primeira classe);
-        5- Determine qual é a companhia aerea que deseja viajar;
+        Console.WriteLine(@$"Selecione o que deseja fazer agora:
+        [1] - Cadastrar mais passagens aereas;
+        [2] - Voltar para Menu
         ");
 
-                break;
-            case '2':
-                break;
-            case '3':
-                break;
-            default:
-                break;
+        int respostaUsuario = int.Parse(Console.ReadLine());
+        
+        if (respostaUsuario == 1)
+        {
+            Utils.Carregamento();
+            Utils.CadastroPassagens();
         }
+
+        break;
+    case '2':
+        Console.WriteLine(@$"Voce decidiu realizar a listagem de passagem Aerea. Por favor, informe o ID da passagem:");
+        Console.ReadLine();
+        
+        
+        break;
+    case '3':
+        Console.WriteLine($"Voce decidiu sair do progama. Bye Bye!");
+        
+        break;
+    default:
+        break;
     }
-}
+

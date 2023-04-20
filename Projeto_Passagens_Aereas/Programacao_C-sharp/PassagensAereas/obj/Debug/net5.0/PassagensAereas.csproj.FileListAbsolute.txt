@@ -1,0 +1,16 @@
+C:\Users\dev\Documents\GuilhermeAmorim\PassagensAereas\bin\Debug\net5.0\PassagensAereas.exe
+C:\Users\dev\Documents\GuilhermeAmorim\PassagensAereas\bin\Debug\net5.0\PassagensAereas.deps.json
+C:\Users\dev\Documents\GuilhermeAmorim\PassagensAereas\bin\Debug\net5.0\PassagensAereas.runtimeconfig.json
+C:\Users\dev\Documents\GuilhermeAmorim\PassagensAereas\bin\Debug\net5.0\PassagensAereas.runtimeconfig.dev.json
+C:\Users\dev\Documents\GuilhermeAmorim\PassagensAereas\bin\Debug\net5.0\PassagensAereas.dll
+C:\Users\dev\Documents\GuilhermeAmorim\PassagensAereas\bin\Debug\net5.0\ref\PassagensAereas.dll
+C:\Users\dev\Documents\GuilhermeAmorim\PassagensAereas\bin\Debug\net5.0\PassagensAereas.pdb
+C:\Users\dev\Documents\GuilhermeAmorim\PassagensAereas\obj\Debug\net5.0\PassagensAereas.csproj.AssemblyReference.cache
+C:\Users\dev\Documents\GuilhermeAmorim\PassagensAereas\obj\Debug\net5.0\PassagensAereas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Documents\GuilhermeAmorim\PassagensAereas\obj\Debug\net5.0\PassagensAereas.AssemblyInfoInputs.cache
+C:\Users\dev\Documents\GuilhermeAmorim\PassagensAereas\obj\Debug\net5.0\PassagensAereas.AssemblyInfo.cs
+C:\Users\dev\Documents\GuilhermeAmorim\PassagensAereas\obj\Debug\net5.0\PassagensAereas.csproj.CoreCompileInputs.cache
+C:\Users\dev\Documents\GuilhermeAmorim\PassagensAereas\obj\Debug\net5.0\PassagensAereas.dll
+C:\Users\dev\Documents\GuilhermeAmorim\PassagensAereas\obj\Debug\net5.0\ref\PassagensAereas.dll
+C:\Users\dev\Documents\GuilhermeAmorim\PassagensAereas\obj\Debug\net5.0\PassagensAereas.pdb
+C:\Users\dev\Documents\GuilhermeAmorim\PassagensAereas\obj\Debug\net5.0\PassagensAereas.genruntimeconfig.cache
