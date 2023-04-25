@@ -19,49 +19,147 @@
 
 using System.Text.RegularExpressions;
 using Projeto_Escola_CadastroAlunos;
+using System.Globalization;
+CultureInfo reais = new CultureInfo("pt-BR");
+bool loopBreak = true;
+
 
 Aluno CadastroAluno = new Aluno();
 
 Console.Clear();
 
-
-Console.WriteLine(@$"Seja bem vindo ao programa de cadastro de aluno. Por gentileza, digite as seguintes informações:");
-
-// Console.WriteLine($"[1] Digite o nome do aluno: ");
-// CadastroAluno.nome = Console.ReadLine();
-
-// Console.WriteLine($"[2] Digite o curso do aluno: ");
-// CadastroAluno.nome = Console.ReadLine();
-
-// Console.WriteLine($"[3] Digite a idade do aluno: ");
-// CadastroAluno.nome = Console.ReadLine();
-
-Console.WriteLine($"[4] Digite o RG do aluno: ");
-var rg  = Console.ReadLine();
-
-Regex regex = new Regex(@"([0-9]{2}.?[0-9]{3}.?[0-9]{3}-?[0-9]{1})", RegexOptions.IgnoreCase);
-var combinou = regex.Match(rg);
-
-if (combinou.Success)
+do
 {
-    Console.WriteLine("RG no formato válido.");
-    Console.WriteLine($"O RG do aluno é: {CadastroAluno.teste(rg)}");
-}
-else
-{
-    Console.WriteLine("RG inválido.");
-}
+startOfLoop:
+    Console.WriteLine(@$"Seja bem vindo ao programa de cadastro de aluno. Por gentileza, escolha uma das opções:
+[1] - Inserir aluno
+[2] - listar aluno
+[3] - Ver média final 
+[4] - Ver mensalidade
+[0] - sair do programa
+");
 
-Console.WriteLine($"[5] Digite o quinto valor: ");
-CadastroAluno.nome = Console.ReadLine();
+    CadastroAluno.escolhaMenu = int.Parse(Console.ReadLine());
 
-Console.WriteLine($"[6] Digite o sexto valor: ");
-CadastroAluno.nome = Console.ReadLine();
+    switch (CadastroAluno.escolhaMenu)
+    {
+        case 1: //inserir aluno
+            Console.WriteLine($" Digite o nome do aluno: ");
+            CadastroAluno.nome = Console.ReadLine();
 
-Console.WriteLine($"[7] Digite o sétimo valor: ");
-CadastroAluno.nome = Console.ReadLine();
+            Console.WriteLine($" Digite o curso do aluno: ");
+            CadastroAluno.curso = Console.ReadLine();
 
+            Console.WriteLine($" Digite a idade do aluno: ");
+            CadastroAluno.idade = int.Parse(Console.ReadLine());
 
+            Console.WriteLine($" Digite o RG do aluno: ");
+            var rg = Console.ReadLine();
+
+            Regex regex = new Regex(@"([0-9]{2}.?[0-9]{3}.?[0-9]{3}-?[0-9]{1})", RegexOptions.IgnoreCase);
+            var combinou = regex.Match(rg);
+
+            if (combinou.Success)
+            {
+                Console.WriteLine("RG no formato válido.");
+                Console.WriteLine($"O RG do aluno é: {CadastroAluno.teste(rg)}");
+            }
+            else
+            {
+                Console.WriteLine("RG inválido.");
+            }
+
+            Console.WriteLine(@$"Voce deseja cadastrar outro aluno ?
+            [1] - Sim
+            [2] - Não
+            ");
+
+            int cadastrarAluno = int.Parse(Console.ReadLine());
+
+            if (cadastrarAluno == 1)
+            {
+                goto startOfLoop;
+                CadastroAluno.Carregamento();
+            }
+            else if (cadastrarAluno == 2)
+            {
+                Console.WriteLine(@$"Voce deseja voltar para o menu de navegação ?
+                [1] - Sim
+                [2] - Não
+                ");
+
+                CadastroAluno.escolhaMenu = int.Parse(Console.ReadLine());
+
+                if (CadastroAluno.escolhaMenu == 1)
+                {
+                    CadastroAluno.Carregamento();
+                    goto startOfLoop;
+
+                }
+                else
+                {
+
+                    loopBreak = false;
+                }
+
+            }
+            break;
+
+        case 2: //listar aluno
+            List<Aluno> listaAluno = new List<Aluno>();
+            listaAluno.Add(CadastroAluno);
+
+            foreach (var item in listaAluno)
+            {
+                Console.WriteLine(@$"
+            O nome do aluno cadastrado é: {item.nome} 
+            O nome do curso no qual o aluno está inscrito é: {item.curso}
+            A idade do aluno é: {item.idade}
+            ");
+            }
+
+            CadastroAluno.Carregamento();
+
+            break;
+
+        case 3: //ver média final
+            Console.WriteLine(@$" O aluno é bolsista ? 
+            [1] - Sim
+            [2] - Não
+            ");
+            CadastroAluno.bolsista = int.Parse(Console.ReadLine());
+
+            Console.WriteLine($" Qual a média final do aluno? ");
+            CadastroAluno.mediaFinal = int.Parse(Console.ReadLine());
+
+            Console.WriteLine($" Qual o valor da mensalidade ? ");
+            CadastroAluno.valorMensalidade = float.Parse(Console.ReadLine());
+
+            CadastroAluno.valorMensalidade = CadastroAluno.VerMensalidade(CadastroAluno.valorMensalidade);
+
+            break;
+
+        case 4: //ver mensalidade
+            Console.WriteLine($" O aluno é bolsista ? ");
+            CadastroAluno.bolsista = int.Parse(Console.ReadLine());
+
+            Console.WriteLine($" Qual a média final do aluno? ");
+            CadastroAluno.mediaFinal = int.Parse(Console.ReadLine());
+
+            Console.WriteLine($" Qual o valor da mensalidade ? ");
+            CadastroAluno.valorMensalidade = float.Parse(Console.ReadLine());
+            break;
+
+        case 0:
+            loopBreak = false;
+            CadastroAluno.Carregamento();
+            Console.WriteLine($"Foi um prazer te servir! até mais!");
+            break;
+
+        default:
+            break;
+    }
+} while (loopBreak);
 
 
 
