@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\45845444845\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_Escola_CadastroAlunos\\Projeto_Escola_CadastroAlunos.csproj",
-      "projectName": "Projeto_Escola_CadastroAlunos",
-      "projectPath": "C:\\Users\\45845444845\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_Escola_CadastroAlunos\\Projeto_Escola_CadastroAlunos.csproj",
+      "projectUniqueName": "C:\\Users\\45845444845\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_CriandoSistemaCelular\\Projeto_CriandoSistemaCelular.csproj",
+      "projectName": "Projeto_CriandoSistemaCelular",
+      "projectPath": "C:\\Users\\45845444845\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_CriandoSistemaCelular\\Projeto_CriandoSistemaCelular.csproj",
       "packagesPath": "C:\\Users\\45845444845\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\45845444845\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_Escola_CadastroAlunos\\obj\\",
+      "outputPath": "C:\\Users\\45845444845\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_CriandoSistemaCelular\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\45845444845\\AppData\\Roaming\\NuGet\\NuGet.Config",

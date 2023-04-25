@@ -1,0 +1,15 @@
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_CriandoSistemaCelular\bin\Debug\net7.0\Projeto_CriandoSistemaCelular.exe
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_CriandoSistemaCelular\bin\Debug\net7.0\Projeto_CriandoSistemaCelular.deps.json
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_CriandoSistemaCelular\bin\Debug\net7.0\Projeto_CriandoSistemaCelular.runtimeconfig.json
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_CriandoSistemaCelular\bin\Debug\net7.0\Projeto_CriandoSistemaCelular.dll
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_CriandoSistemaCelular\bin\Debug\net7.0\Projeto_CriandoSistemaCelular.pdb
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_CriandoSistemaCelular\obj\Debug\net7.0\Projeto_CriandoSistemaCelular.csproj.AssemblyReference.cache
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_CriandoSistemaCelular\obj\Debug\net7.0\Projeto_CriandoSistemaCelular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_CriandoSistemaCelular\obj\Debug\net7.0\Projeto_CriandoSistemaCelular.AssemblyInfoInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_CriandoSistemaCelular\obj\Debug\net7.0\Projeto_CriandoSistemaCelular.AssemblyInfo.cs
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_CriandoSistemaCelular\obj\Debug\net7.0\Projeto_CriandoSistemaCelular.csproj.CoreCompileInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_CriandoSistemaCelular\obj\Debug\net7.0\Projeto_CriandoSistemaCelular.dll
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_CriandoSistemaCelular\obj\Debug\net7.0\refint\Projeto_CriandoSistemaCelular.dll
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_CriandoSistemaCelular\obj\Debug\net7.0\Projeto_CriandoSistemaCelular.pdb
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_CriandoSistemaCelular\obj\Debug\net7.0\Projeto_CriandoSistemaCelular.genruntimeconfig.cache
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_CriandoSistemaCelular\obj\Debug\net7.0\ref\Projeto_CriandoSistemaCelular.dll

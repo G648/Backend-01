@@ -28,12 +28,12 @@ namespace Projeto_Escola_CadastroAlunos
 {
     public class Aluno
     {
-       
+
         public int escolhaMenu;
         public string nome;
         public string curso;
         public int idade;
-        public int rg;
+        public string rg;
         public int bolsista;
         public int mediaFinal;
         public float valorMensalidade;
@@ -44,23 +44,37 @@ namespace Projeto_Escola_CadastroAlunos
 
             if (bolsista == 1 && mediaFinal >= 8)
             {
+
                 calculoMensalidade = valorMensalidade * 0.5f;
 
-                Console.WriteLine($"O aluno passou com média {mediaFinal}, portanto o valor da mensalidade é de : {Math.Round(calculoMensalidade, 2).ToString("C")} reais");
+                Console.WriteLine($"O aluno passou com média {mediaFinal}, portanto o valor da mensalidade é de 50% : {Math.Round(calculoMensalidade, 2).ToString("C")} reais");
 
             }
-            else if (bolsista == 1 && mediaFinal >= 6 )
+            else if (bolsista == 1 && mediaFinal >= 6)
             {
-                calculoMensalidade = valorMensalidade - (valorMensalidade * 0.3f) ;
-                Console.WriteLine($"O aluno passou com média {mediaFinal}, portanto o valor da mensalidade é de : {Math.Round(calculoMensalidade, 2).ToString("C")} reais");
+
+                calculoMensalidade = valorMensalidade - (valorMensalidade * 0.3f);
+                Console.WriteLine($"O aluno passou com média {mediaFinal}, portanto o valor da mensalidade é de 30% : {Math.Round(calculoMensalidade, 2).ToString("C")} reais");
+
+            }
+            else
+            {
                 
+                Console.WriteLine($"Pelo fato do aluno não ser bolsista, ele terá que pagar a mensalidade integral, portanto o valor da mensalidade é de: {valorMensalidade}");
+
             }
 
             return valorMensalidade;
         }
 
+        public void VerMediaFinal(int mediaFinal)
+        {
 
-        List<Aluno> listaAluno = new List<Aluno>();
+            Console.WriteLine($"A média da nota do aluno é de: {mediaFinal}");
+
+        }
+
+        // List<Aluno> listaAluno = new List<Aluno>();
 
         public void Carregamento()
         {
@@ -79,6 +93,5 @@ namespace Projeto_Escola_CadastroAlunos
         {
             return Convert.ToUInt64(rg).ToString(@"00\.000\.000\-0");
         }
-
     }
 }

@@ -44,6 +44,8 @@ startOfLoop:
     switch (CadastroAluno.escolhaMenu)
     {
         case 1: //inserir aluno
+
+        voltarCadastroAluno:
             Console.WriteLine($" Digite o nome do aluno: ");
             CadastroAluno.nome = Console.ReadLine();
 
@@ -54,20 +56,40 @@ startOfLoop:
             CadastroAluno.idade = int.Parse(Console.ReadLine());
 
             Console.WriteLine($" Digite o RG do aluno: ");
-            var rg = Console.ReadLine();
+            CadastroAluno.rg = Console.ReadLine();
 
             Regex regex = new Regex(@"([0-9]{2}.?[0-9]{3}.?[0-9]{3}-?[0-9]{1})", RegexOptions.IgnoreCase);
-            var combinou = regex.Match(rg);
+            var combinou = regex.Match(CadastroAluno.rg);
 
-            if (combinou.Success)
+            if (CadastroAluno.rg.Length == 9)
             {
+
                 Console.WriteLine("RG no formato válido.");
-                Console.WriteLine($"O RG do aluno é: {CadastroAluno.teste(rg)}");
+                Console.WriteLine($"O RG do aluno é: {CadastroAluno.teste(CadastroAluno.rg)}");
+
             }
             else
             {
-                Console.WriteLine("RG inválido.");
+                do
+                {
+
+                    Console.WriteLine("RG inválido. Por gentileza, digite um RG no formato válido. Sem pontos e sem traços:");
+                    CadastroAluno.rg = Console.ReadLine();
+
+                } while (CadastroAluno.rg.Length != 9);
             }
+
+            Console.WriteLine(@$" O aluno é bolsista ? 
+            [1] - Sim
+            [2] - Não
+            ");
+            CadastroAluno.bolsista = int.Parse(Console.ReadLine());
+
+            Console.WriteLine($" Qual a média final do aluno? ");
+            CadastroAluno.mediaFinal = int.Parse(Console.ReadLine());
+
+            Console.WriteLine($" Qual o valor da mensalidade ? ");
+            CadastroAluno.valorMensalidade = float.Parse(Console.ReadLine());
 
             Console.WriteLine(@$"Voce deseja cadastrar outro aluno ?
             [1] - Sim
@@ -78,9 +100,10 @@ startOfLoop:
 
             if (cadastrarAluno == 1)
             {
-                goto startOfLoop;
                 CadastroAluno.Carregamento();
+                goto voltarCadastroAluno;
             }
+
             else if (cadastrarAluno == 2)
             {
                 Console.WriteLine(@$"Voce deseja voltar para o menu de navegação ?
@@ -106,6 +129,7 @@ startOfLoop:
             break;
 
         case 2: //listar aluno
+
             List<Aluno> listaAluno = new List<Aluno>();
             listaAluno.Add(CadastroAluno);
 
@@ -115,45 +139,46 @@ startOfLoop:
             O nome do aluno cadastrado é: {item.nome} 
             O nome do curso no qual o aluno está inscrito é: {item.curso}
             A idade do aluno é: {item.idade}
+            O RG do aluno é: {CadastroAluno.teste(CadastroAluno.rg)}
+            Situação do aluno, bolsista ou não? [1] = bolsista [2] = não bolsista;  {CadastroAluno.bolsista}
             ");
             }
+
+            Console.WriteLine($"Aperte qualquer botão para voltar ao menu!");
+            Console.ReadKey();
 
             CadastroAluno.Carregamento();
 
             break;
 
         case 3: //ver média final
-            Console.WriteLine(@$" O aluno é bolsista ? 
-            [1] - Sim
-            [2] - Não
-            ");
-            CadastroAluno.bolsista = int.Parse(Console.ReadLine());
 
-            Console.WriteLine($" Qual a média final do aluno? ");
-            CadastroAluno.mediaFinal = int.Parse(Console.ReadLine());
+            CadastroAluno.VerMediaFinal(CadastroAluno.mediaFinal);
 
-            Console.WriteLine($" Qual o valor da mensalidade ? ");
-            CadastroAluno.valorMensalidade = float.Parse(Console.ReadLine());
+            Console.WriteLine($"Aperte qualquer botão para voltar ao menu!");
+            Console.ReadKey();
 
-            CadastroAluno.valorMensalidade = CadastroAluno.VerMensalidade(CadastroAluno.valorMensalidade);
+            CadastroAluno.Carregamento();
 
             break;
 
         case 4: //ver mensalidade
-            Console.WriteLine($" O aluno é bolsista ? ");
-            CadastroAluno.bolsista = int.Parse(Console.ReadLine());
 
-            Console.WriteLine($" Qual a média final do aluno? ");
-            CadastroAluno.mediaFinal = int.Parse(Console.ReadLine());
+            CadastroAluno.valorMensalidade = CadastroAluno.VerMensalidade(CadastroAluno.valorMensalidade);
 
-            Console.WriteLine($" Qual o valor da mensalidade ? ");
-            CadastroAluno.valorMensalidade = float.Parse(Console.ReadLine());
+            Console.WriteLine($"Aperte qualquer botão para voltar ao menu!");
+            Console.ReadKey();
+
+            CadastroAluno.Carregamento();
+
             break;
 
         case 0:
+
             loopBreak = false;
             CadastroAluno.Carregamento();
             Console.WriteLine($"Foi um prazer te servir! até mais!");
+
             break;
 
         default:
