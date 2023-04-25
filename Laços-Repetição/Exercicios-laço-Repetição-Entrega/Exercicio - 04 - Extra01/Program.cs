@@ -21,38 +21,94 @@
 Console.Clear();
 
 //variáveis
-char sexoUsuario;
-int sexoUsuarioM = 0;
-int sexoUsuarioF = 0;
-string respostaUsuario;
-bool respostaSexo = true;
 
-Console.WriteLine($"Seja bem vindo ao meu programa de entrevistas:");
+char sexoUser;
+string respostaPesquisa;
+int contadorM = 0;
+int contadorSM = 0;
+int contadorNM = 0;
+int contadorF = 0;
+int contadorSF = 0;
+int contadorNF = 0;
+bool loopBreak = true;
 
-
-for (var i = 0; i <= 10; i++)
+for (int i = 0; i < 2; i++)
 {
-    Console.WriteLine($"Informe o seu sexo: M - para masculino e F - para feminino:");
-    sexoUsuario = char.Parse(Console.ReadLine().ToUpper());
-
-    switch (sexoUsuario)
+    do
     {
-        case 'M':
-            sexoUsuarioM++;
 
-            Console.WriteLine($"Voce gostou no nosso produto ? Digite sim ou não para avaliar o nosso produto");
-            respostaUsuario = Console.ReadLine();
-            break;
-        case 'F':
-            sexoUsuarioF++;
+        Console.WriteLine($"Por gentileza, digite aqui o seu sexo: F para feminino e M para masculino;");
+        sexoUser = char.Parse(Console.ReadLine().ToUpper());
 
-            Console.WriteLine($"Voce gostou no nosso produto ? Digite sim ou não para avaliar o nosso produto");
-            respostaUsuario = Console.ReadLine();
-            break;
-        default:
-            Console.WriteLine($"digite um valor válido: M ou F");
-            break;
-    }
+        switch (sexoUser)
+        {
+            case 'F':
+                contadorF++;
+                // loopBreak = false;
+                do
+                {
+                    Console.WriteLine($"Voce gostou do produto perguntado na pesquisa? digite S para sim e N para não!");
+                    respostaPesquisa = Console.ReadLine().ToUpper();
+
+                    switch (respostaPesquisa)
+                    {
+                        case "S":
+                            contadorSF++;
+                            
+                            break;
+                        case "N":
+                            contadorNF++;
+                            
+                            break;
+                        default:
+                            Console.WriteLine($"digite um valor válido de S para sim e N para não");
+                        
+                            break;
+                    }
+
+
+                } while (loopBreak);
+
+                break;
+
+            case 'M':
+                contadorM++;
+                // loopBreak = false;
+                if (sexoUser == 'M')
+                {
+                    do
+                    {
+                        Console.WriteLine($"Voce gostou do produto perguntado na pesquisa? digite S para sim e N para não!");
+                        respostaPesquisa = (Console.ReadLine().ToUpper());
+
+                        switch (respostaPesquisa)
+                        {
+                            case "S":
+                                contadorSM++;
+                                loopBreak = false;
+                                break;
+                            case "N":
+                                contadorNM++;
+                                loopBreak = false;
+                                break;
+                            default:
+                                Console.WriteLine($"digite um valor válido de S para sim e N para não");
+                                loopBreak = true;
+                                break;
+                        }
+
+
+                    } while (loopBreak);
+                }
+                break;
+
+            default:
+                Console.WriteLine($"Letra invalida, digite apenas F para feminino e M para masculino;");
+                break;
+        }
+
+    } while (loopBreak);
+
 
 }
 
