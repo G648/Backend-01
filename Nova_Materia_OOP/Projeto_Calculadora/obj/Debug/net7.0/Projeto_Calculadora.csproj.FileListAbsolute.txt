@@ -1,0 +1,15 @@
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_Calculadora\bin\Debug\net7.0\Projeto_Calculadora.exe
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_Calculadora\bin\Debug\net7.0\Projeto_Calculadora.deps.json
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_Calculadora\bin\Debug\net7.0\Projeto_Calculadora.runtimeconfig.json
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_Calculadora\bin\Debug\net7.0\Projeto_Calculadora.dll
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_Calculadora\bin\Debug\net7.0\Projeto_Calculadora.pdb
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_Calculadora\obj\Debug\net7.0\Projeto_Calculadora.csproj.AssemblyReference.cache
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_Calculadora\obj\Debug\net7.0\Projeto_Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_Calculadora\obj\Debug\net7.0\Projeto_Calculadora.AssemblyInfoInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_Calculadora\obj\Debug\net7.0\Projeto_Calculadora.AssemblyInfo.cs
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_Calculadora\obj\Debug\net7.0\Projeto_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_Calculadora\obj\Debug\net7.0\Projeto_Calculadora.dll
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_Calculadora\obj\Debug\net7.0\refint\Projeto_Calculadora.dll
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_Calculadora\obj\Debug\net7.0\Projeto_Calculadora.pdb
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_Calculadora\obj\Debug\net7.0\Projeto_Calculadora.genruntimeconfig.cache
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_Calculadora\obj\Debug\net7.0\ref\Projeto_Calculadora.dll

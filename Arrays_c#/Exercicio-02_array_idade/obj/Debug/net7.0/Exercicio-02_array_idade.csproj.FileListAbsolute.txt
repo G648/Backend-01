@@ -1,0 +1,15 @@
+C:\Users\45845444845\Desktop\Backend-01\Arrays_c#\Exercicio-02_array_idade\obj\Debug\net7.0\Exercicio-02_array_idade.csproj.AssemblyReference.cache
+C:\Users\45845444845\Desktop\Backend-01\Arrays_c#\Exercicio-02_array_idade\obj\Debug\net7.0\Exercicio-02_array_idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45845444845\Desktop\Backend-01\Arrays_c#\Exercicio-02_array_idade\obj\Debug\net7.0\Exercicio-02_array_idade.AssemblyInfoInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Arrays_c#\Exercicio-02_array_idade\obj\Debug\net7.0\Exercicio-02_array_idade.AssemblyInfo.cs
+C:\Users\45845444845\Desktop\Backend-01\Arrays_c#\Exercicio-02_array_idade\obj\Debug\net7.0\Exercicio-02_array_idade.csproj.CoreCompileInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Arrays_c#\Exercicio-02_array_idade\bin\Debug\net7.0\Exercicio-02_array_idade.exe
+C:\Users\45845444845\Desktop\Backend-01\Arrays_c#\Exercicio-02_array_idade\bin\Debug\net7.0\Exercicio-02_array_idade.deps.json
+C:\Users\45845444845\Desktop\Backend-01\Arrays_c#\Exercicio-02_array_idade\bin\Debug\net7.0\Exercicio-02_array_idade.runtimeconfig.json
+C:\Users\45845444845\Desktop\Backend-01\Arrays_c#\Exercicio-02_array_idade\bin\Debug\net7.0\Exercicio-02_array_idade.dll
+C:\Users\45845444845\Desktop\Backend-01\Arrays_c#\Exercicio-02_array_idade\bin\Debug\net7.0\Exercicio-02_array_idade.pdb
+C:\Users\45845444845\Desktop\Backend-01\Arrays_c#\Exercicio-02_array_idade\obj\Debug\net7.0\Exercicio-02_array_idade.dll
+C:\Users\45845444845\Desktop\Backend-01\Arrays_c#\Exercicio-02_array_idade\obj\Debug\net7.0\refint\Exercicio-02_array_idade.dll
+C:\Users\45845444845\Desktop\Backend-01\Arrays_c#\Exercicio-02_array_idade\obj\Debug\net7.0\Exercicio-02_array_idade.pdb
+C:\Users\45845444845\Desktop\Backend-01\Arrays_c#\Exercicio-02_array_idade\obj\Debug\net7.0\Exercicio-02_array_idade.genruntimeconfig.cache
+C:\Users\45845444845\Desktop\Backend-01\Arrays_c#\Exercicio-02_array_idade\obj\Debug\net7.0\ref\Exercicio-02_array_idade.dll

@@ -1,0 +1,15 @@
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 05 - Extra02\bin\Debug\net7.0\Exercicio - 05 - Extra02.exe
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 05 - Extra02\bin\Debug\net7.0\Exercicio - 05 - Extra02.deps.json
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 05 - Extra02\bin\Debug\net7.0\Exercicio - 05 - Extra02.runtimeconfig.json
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 05 - Extra02\bin\Debug\net7.0\Exercicio - 05 - Extra02.dll
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 05 - Extra02\bin\Debug\net7.0\Exercicio - 05 - Extra02.pdb
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 05 - Extra02\obj\Debug\net7.0\Exercicio - 05 - Extra02.csproj.AssemblyReference.cache
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 05 - Extra02\obj\Debug\net7.0\Exercicio - 05 - Extra02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 05 - Extra02\obj\Debug\net7.0\Exercicio - 05 - Extra02.AssemblyInfoInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 05 - Extra02\obj\Debug\net7.0\Exercicio - 05 - Extra02.AssemblyInfo.cs
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 05 - Extra02\obj\Debug\net7.0\Exercicio - 05 - Extra02.csproj.CoreCompileInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 05 - Extra02\obj\Debug\net7.0\Exercicio - 05 - Extra02.dll
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 05 - Extra02\obj\Debug\net7.0\refint\Exercicio - 05 - Extra02.dll
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 05 - Extra02\obj\Debug\net7.0\Exercicio - 05 - Extra02.pdb
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 05 - Extra02\obj\Debug\net7.0\Exercicio - 05 - Extra02.genruntimeconfig.cache
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 05 - Extra02\obj\Debug\net7.0\ref\Exercicio - 05 - Extra02.dll

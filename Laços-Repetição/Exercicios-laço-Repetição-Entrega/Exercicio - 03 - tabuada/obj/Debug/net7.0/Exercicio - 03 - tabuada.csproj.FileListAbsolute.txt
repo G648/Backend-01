@@ -1,0 +1,15 @@
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 03 - tabuada\bin\Debug\net7.0\Exercicio - 03 - tabuada.exe
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 03 - tabuada\bin\Debug\net7.0\Exercicio - 03 - tabuada.deps.json
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 03 - tabuada\bin\Debug\net7.0\Exercicio - 03 - tabuada.runtimeconfig.json
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 03 - tabuada\bin\Debug\net7.0\Exercicio - 03 - tabuada.dll
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 03 - tabuada\bin\Debug\net7.0\Exercicio - 03 - tabuada.pdb
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 03 - tabuada\obj\Debug\net7.0\Exercicio - 03 - tabuada.csproj.AssemblyReference.cache
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 03 - tabuada\obj\Debug\net7.0\Exercicio - 03 - tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 03 - tabuada\obj\Debug\net7.0\Exercicio - 03 - tabuada.AssemblyInfoInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 03 - tabuada\obj\Debug\net7.0\Exercicio - 03 - tabuada.AssemblyInfo.cs
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 03 - tabuada\obj\Debug\net7.0\Exercicio - 03 - tabuada.csproj.CoreCompileInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 03 - tabuada\obj\Debug\net7.0\Exercicio - 03 - tabuada.dll
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 03 - tabuada\obj\Debug\net7.0\refint\Exercicio - 03 - tabuada.dll
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 03 - tabuada\obj\Debug\net7.0\Exercicio - 03 - tabuada.pdb
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 03 - tabuada\obj\Debug\net7.0\Exercicio - 03 - tabuada.genruntimeconfig.cache
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 03 - tabuada\obj\Debug\net7.0\ref\Exercicio - 03 - tabuada.dll

@@ -1,0 +1,15 @@
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 06 - Fibonacci\bin\Debug\net7.0\Exercicio - 06 - Fibonacci.exe
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 06 - Fibonacci\bin\Debug\net7.0\Exercicio - 06 - Fibonacci.deps.json
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 06 - Fibonacci\bin\Debug\net7.0\Exercicio - 06 - Fibonacci.runtimeconfig.json
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 06 - Fibonacci\bin\Debug\net7.0\Exercicio - 06 - Fibonacci.dll
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 06 - Fibonacci\bin\Debug\net7.0\Exercicio - 06 - Fibonacci.pdb
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 06 - Fibonacci\obj\Debug\net7.0\Exercicio - 06 - Fibonacci.csproj.AssemblyReference.cache
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 06 - Fibonacci\obj\Debug\net7.0\Exercicio - 06 - Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 06 - Fibonacci\obj\Debug\net7.0\Exercicio - 06 - Fibonacci.AssemblyInfoInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 06 - Fibonacci\obj\Debug\net7.0\Exercicio - 06 - Fibonacci.AssemblyInfo.cs
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 06 - Fibonacci\obj\Debug\net7.0\Exercicio - 06 - Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 06 - Fibonacci\obj\Debug\net7.0\Exercicio - 06 - Fibonacci.dll
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 06 - Fibonacci\obj\Debug\net7.0\refint\Exercicio - 06 - Fibonacci.dll
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 06 - Fibonacci\obj\Debug\net7.0\Exercicio - 06 - Fibonacci.pdb
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 06 - Fibonacci\obj\Debug\net7.0\Exercicio - 06 - Fibonacci.genruntimeconfig.cache
+C:\Users\45845444845\Desktop\Backend-01\Laços-Repetição\Exercicios-laço-Repetição-Entrega\Exercicio - 06 - Fibonacci\obj\Debug\net7.0\ref\Exercicio - 06 - Fibonacci.dll
