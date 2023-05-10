@@ -1,0 +1,15 @@
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_ClassesEstaticas\bin\Debug\net7.0\Projeto_ClassesEstaticas.exe
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_ClassesEstaticas\bin\Debug\net7.0\Projeto_ClassesEstaticas.deps.json
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_ClassesEstaticas\bin\Debug\net7.0\Projeto_ClassesEstaticas.runtimeconfig.json
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_ClassesEstaticas\bin\Debug\net7.0\Projeto_ClassesEstaticas.dll
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_ClassesEstaticas\bin\Debug\net7.0\Projeto_ClassesEstaticas.pdb
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_ClassesEstaticas\obj\Debug\net7.0\Projeto_ClassesEstaticas.csproj.AssemblyReference.cache
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_ClassesEstaticas\obj\Debug\net7.0\Projeto_ClassesEstaticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_ClassesEstaticas\obj\Debug\net7.0\Projeto_ClassesEstaticas.AssemblyInfoInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_ClassesEstaticas\obj\Debug\net7.0\Projeto_ClassesEstaticas.AssemblyInfo.cs
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_ClassesEstaticas\obj\Debug\net7.0\Projeto_ClassesEstaticas.csproj.CoreCompileInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_ClassesEstaticas\obj\Debug\net7.0\Projeto_ClassesEstaticas.dll
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_ClassesEstaticas\obj\Debug\net7.0\refint\Projeto_ClassesEstaticas.dll
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_ClassesEstaticas\obj\Debug\net7.0\Projeto_ClassesEstaticas.pdb
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_ClassesEstaticas\obj\Debug\net7.0\Projeto_ClassesEstaticas.genruntimeconfig.cache
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_ClassesEstaticas\obj\Debug\net7.0\ref\Projeto_ClassesEstaticas.dll

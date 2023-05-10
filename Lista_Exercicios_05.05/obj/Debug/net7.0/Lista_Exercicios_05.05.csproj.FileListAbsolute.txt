@@ -1,0 +1,15 @@
+C:\Users\45845444845\Desktop\Backend-01\Lista_Exercicios_05.05\bin\Debug\net7.0\Lista_Exercicios_05.05.exe
+C:\Users\45845444845\Desktop\Backend-01\Lista_Exercicios_05.05\bin\Debug\net7.0\Lista_Exercicios_05.05.deps.json
+C:\Users\45845444845\Desktop\Backend-01\Lista_Exercicios_05.05\bin\Debug\net7.0\Lista_Exercicios_05.05.runtimeconfig.json
+C:\Users\45845444845\Desktop\Backend-01\Lista_Exercicios_05.05\bin\Debug\net7.0\Lista_Exercicios_05.05.dll
+C:\Users\45845444845\Desktop\Backend-01\Lista_Exercicios_05.05\bin\Debug\net7.0\Lista_Exercicios_05.05.pdb
+C:\Users\45845444845\Desktop\Backend-01\Lista_Exercicios_05.05\obj\Debug\net7.0\Lista_Exercicios_05.05.csproj.AssemblyReference.cache
+C:\Users\45845444845\Desktop\Backend-01\Lista_Exercicios_05.05\obj\Debug\net7.0\Lista_Exercicios_05.05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45845444845\Desktop\Backend-01\Lista_Exercicios_05.05\obj\Debug\net7.0\Lista_Exercicios_05.05.AssemblyInfoInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Lista_Exercicios_05.05\obj\Debug\net7.0\Lista_Exercicios_05.05.AssemblyInfo.cs
+C:\Users\45845444845\Desktop\Backend-01\Lista_Exercicios_05.05\obj\Debug\net7.0\Lista_Exercicios_05.05.csproj.CoreCompileInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Lista_Exercicios_05.05\obj\Debug\net7.0\Lista_Exercicios_05.05.dll
+C:\Users\45845444845\Desktop\Backend-01\Lista_Exercicios_05.05\obj\Debug\net7.0\refint\Lista_Exercicios_05.05.dll
+C:\Users\45845444845\Desktop\Backend-01\Lista_Exercicios_05.05\obj\Debug\net7.0\Lista_Exercicios_05.05.pdb
+C:\Users\45845444845\Desktop\Backend-01\Lista_Exercicios_05.05\obj\Debug\net7.0\Lista_Exercicios_05.05.genruntimeconfig.cache
+C:\Users\45845444845\Desktop\Backend-01\Lista_Exercicios_05.05\obj\Debug\net7.0\ref\Lista_Exercicios_05.05.dll
