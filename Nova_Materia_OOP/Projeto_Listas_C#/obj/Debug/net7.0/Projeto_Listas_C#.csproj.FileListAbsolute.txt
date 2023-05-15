@@ -1,0 +1,15 @@
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_Listas_C#\bin\Debug\net7.0\Projeto_Listas_C#.exe
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_Listas_C#\bin\Debug\net7.0\Projeto_Listas_C#.deps.json
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_Listas_C#\bin\Debug\net7.0\Projeto_Listas_C#.runtimeconfig.json
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_Listas_C#\bin\Debug\net7.0\Projeto_Listas_C#.dll
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_Listas_C#\bin\Debug\net7.0\Projeto_Listas_C#.pdb
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_Listas_C#\obj\Debug\net7.0\Projeto_Listas_C#.csproj.AssemblyReference.cache
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_Listas_C#\obj\Debug\net7.0\Projeto_Listas_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_Listas_C#\obj\Debug\net7.0\Projeto_Listas_C#.AssemblyInfoInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_Listas_C#\obj\Debug\net7.0\Projeto_Listas_C#.AssemblyInfo.cs
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_Listas_C#\obj\Debug\net7.0\Projeto_Listas_C#.csproj.CoreCompileInputs.cache
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_Listas_C#\obj\Debug\net7.0\Projeto_Listas_C#.dll
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_Listas_C#\obj\Debug\net7.0\refint\Projeto_Listas_C#.dll
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_Listas_C#\obj\Debug\net7.0\Projeto_Listas_C#.pdb
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_Listas_C#\obj\Debug\net7.0\Projeto_Listas_C#.genruntimeconfig.cache
+C:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_Listas_C#\obj\Debug\net7.0\ref\Projeto_Listas_C#.dll
