@@ -14,21 +14,23 @@ using System.Threading.Tasks;
 
 namespace Projeto_AtividadeExtra
 {
-    public abstract class Jogador
+    public class Jogador
     {
+        public string InserirValorMenu { get; set; }
         public string Nome { get; set; }
         public int DataNascimento { get; set; }
         public string Nacionalidade { get; set; }
         public float Altura { get; set; }
         public float Peso { get; set; }
 
-        public void DadosJogador(string nome, int datanascimento, string nacionalidade, float altura, float peso)
+        // criando construtor para listar o jogador
+        public Jogador(string nome, int datanascimento, string nacionalidade, float altura, float peso)
         {
-               Nome = nome;    
-               DataNascimento = datanascimento;
-               Nacionalidade = nacionalidade;
-               Altura = altura;
-               Peso = peso;
+            Nome = nome;
+            DataNascimento = datanascimento;
+            Nacionalidade = nacionalidade;
+            Altura = altura;
+            Peso = peso;
         }
     }
 }
