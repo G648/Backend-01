@@ -8,24 +8,26 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Docente\\.nuget\\packages\\": {}
+    "C:\\Users\\45845444845\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Docente\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_CadastroProdutos_16-05\\Projeto_CadastroProdutos_16-05.csproj",
+      "projectUniqueName": "C:\\Users\\45845444845\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_CadastroProdutos_16-05\\Projeto_CadastroProdutos_16-05.csproj",
       "projectName": "Projeto_CadastroProdutos_16-05",
-      "projectPath": "C:\\Users\\Docente\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_CadastroProdutos_16-05\\Projeto_CadastroProdutos_16-05.csproj",
-      "packagesPath": "C:\\Users\\Docente\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Docente\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_CadastroProdutos_16-05\\obj\\",
+      "projectPath": "C:\\Users\\45845444845\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_CadastroProdutos_16-05\\Projeto_CadastroProdutos_16-05.csproj",
+      "packagesPath": "C:\\Users\\45845444845\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\45845444845\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_CadastroProdutos_16-05\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Docente\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\45845444845\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

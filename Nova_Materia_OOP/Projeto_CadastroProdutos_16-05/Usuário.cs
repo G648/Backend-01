@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Projeto_CadastroProdutos_16_05
 {
-    public class Usuário
+    public class Usuario
     {
         private Random CodigoUser = new Random();
         public string NameUser { get; set; }
@@ -14,27 +14,69 @@ namespace Projeto_CadastroProdutos_16_05
         public string SenhaUser { get; set; }
         // private DateTime DataDeCadastroUser;
         DateTime dataDeCadastroUser = DateTime.Now;
+        List<Usuario> listUsers = new List<Usuario>();
 
-        public string CadastrarUsuario()
+        public string CadastrarUsuario(string email, string senha)
         {
             // Login loginUser = new Login();
+
+            Usuario cadastradoUser = new Usuario();
 
             Console.WriteLine($"Bem vindo a tela de cadastro do usuário. ");
 
             Console.WriteLine($"Por gentileza, digite seu nome:");
-            NameUser = Console.ReadLine();
+            cadastradoUser.NameUser = Console.ReadLine();
 
             Console.WriteLine($"Informe seu email:");
-            EmailUser = Console.ReadLine();
+            cadastradoUser.EmailUser = Console.ReadLine();
 
             Console.WriteLine($"Informe sua senha:");
-            SenhaUser = Console.ReadLine();
+            cadastradoUser.SenhaUser = Console.ReadLine();
 
             Console.WriteLine($"A data de cadastro do novo usuário é: {dataDeCadastroUser}");
             Console.WriteLine($"O código do usuário na plataforma é: {CodigoUser.Next(0000, 9999)}");
 
+            listUsers.Add(cadastradoUser);
+            //aqui eu to colocando os objetod criados dentro de uma lista
+
             return "";
 
+        }
+
+        public void ListarUsuario()
+        {
+            foreach (var item in listUsers)
+            {
+                Console.WriteLine($"email {item.EmailUser}, senha: {item.SenhaUser}");
+                
+            }
+        }
+
+        public bool ValidacaoCadastro(string email, string senha )
+        {
+
+            Usuario validacaoEmail = listUsers.Find(x => x.EmailUser == email);
+
+
+            if (validacaoEmail == null)
+            {
+                
+                return false;
+                
+            }
+
+            if (validacaoEmail.EmailUser == email && validacaoEmail.EmailUser != null)
+            {
+                Console.WriteLine($"Usuário cadastrado com sucesso!");
+                return true;
+            }
+            else
+            {
+                Console.WriteLine($"Usuário não cadastrado ");
+                return false;
+            }
+
+            
         }
 
         // public string DeletarUsuario()

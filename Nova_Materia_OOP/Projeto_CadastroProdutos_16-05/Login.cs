@@ -12,7 +12,7 @@ namespace Projeto_CadastroProdutos_16_05
         //eu preciso criar um método construtor para poder chamar o meu método de login de usuário
         public Login()
         {
-            Usuário user = new Usuário(); //aqui estou criando um objeto para a minha classe de usuário
+            Usuario user = new Usuario(); //aqui estou criando um objeto para a minha classe de usuário
             LogarUser(user); //aqui estou chamando o método para realizar o login do usuário
 
             if (logado)
@@ -21,38 +21,45 @@ namespace Projeto_CadastroProdutos_16_05
             }
 
         }
-        public void LogarUser(Usuário usuário)
+        public void LogarUser(Usuario usuário)
         {
-            Usuário user = new Usuário(); //aqui estou criando um objeto para a minha classe de usuário
+
+            Usuario user = new Usuario(); //aqui estou criando um objeto para a minha classe de usuário
             Console.Clear();
             Carregamento();
-
+        // startOfLoop:
             Console.WriteLine($"Por gentileza, informe seu email para realizar login na plataforma");
             string email = Console.ReadLine();
 
             Console.WriteLine($"Por gentileza, informe sua senha para realizar login na plataforma");
             string senha = Console.ReadLine();
-
+            user.ValidacaoCadastro(email, senha);
             //validação para realizar o login do usuário
-            if (email == user.EmailUser && senha == user.SenhaUser)
+
+
+
+            if (user.ValidacaoCadastro(email, senha) == true )
             {
                 Console.WriteLine($"Usuário logado com sucesso! Indo para as opções de menu");
                 logado = true;
                 MostrarMenu();
+
             }
             else
             {
                 logado = false;
-                Usuário cadastroUser = new Usuário();
+                Usuario cadastroUser = new Usuario();
                 Console.WriteLine($"Usuário não cadastrado no sistema, Redirecionando para tela de cadastro.");
                 Carregamento();
 
-                cadastroUser.CadastrarUsuario();
+                cadastroUser.CadastrarUsuario(email, senha);
                 Console.WriteLine($"Usuário cadastrado com sucesso!");
                 Carregamento();
+                cadastroUser.ListarUsuario();
 
-                MostrarMenu();
+                // MostrarMenu();
             }
+
 
         }
 
@@ -63,6 +70,10 @@ namespace Projeto_CadastroProdutos_16_05
 
         public void MostrarMenu()
         {
+
+            Produto produto = new Produto();
+            Marca marca = new Marca();
+
             Console.WriteLine($"Bem vindo à loja! Informe uma opção:");
 
             string opcaoMenu;
