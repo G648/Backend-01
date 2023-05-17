@@ -8,23 +8,16 @@ namespace Projeto_CadastroProdutos_16_05
 {
     public class Usuário
     {
-        //aqui vamos ter os seguintes atributos:
-        //código 
-        //nome
-        //email
-        //senha
-        //data de cadastro 
-        //vamos utilizar apenas atributos privados!
-
         private Random CodigoUser = new Random();
-        private string NameUser {get; set;}
-        private string EmailUser {get; set;}
-        private string SenhaUser {get; set;}
+        public string NameUser { get; set; }
+        public string EmailUser { get; set; }
+        public string SenhaUser { get; set; }
         // private DateTime DataDeCadastroUser;
         DateTime dataDeCadastroUser = DateTime.Now;
-        
+
         public string CadastrarUsuario()
         {
+            // Login loginUser = new Login();
 
             Console.WriteLine($"Bem vindo a tela de cadastro do usuário. ");
 
@@ -41,7 +34,7 @@ namespace Projeto_CadastroProdutos_16_05
             Console.WriteLine($"O código do usuário na plataforma é: {CodigoUser.Next(0000, 9999)}");
 
             return "";
-            
+
         }
 
         // public string DeletarUsuario()
