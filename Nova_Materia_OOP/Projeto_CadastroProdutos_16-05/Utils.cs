@@ -7,14 +7,14 @@ namespace Projeto_CadastroProdutos_16_05
 {
     public class Utils
     {
-        public void Carregamento()
+        public void Carregamento(int tempo, int pontos, string texto)
         {
-            Console.Write($"Carregando");
+            Console.Write($"texto");
 
-            for (var i = 0; i < 5; i++)
+            for (var i = 0; i < pontos; i++)
             {
                 Console.Write($".");
-                Thread.Sleep(800);
+                Thread.Sleep(tempo);
             }
             Console.Clear();
         }

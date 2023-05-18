@@ -8,8 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Projeto_Listas_C_
-<<<<<<< HEAD
-build_property.ProjectDir = c:\Users\Docente\Desktop\Backend-01\Nova_Materia_OOP\Projeto_Listas_C#\
-=======
 build_property.ProjectDir = c:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_Listas_C#\
->>>>>>> 1d2e4dad10207e8b42c0c1a72233056046a56a48

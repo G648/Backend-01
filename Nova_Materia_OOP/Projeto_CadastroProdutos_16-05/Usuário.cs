@@ -6,6 +6,11 @@ using System.Threading.Tasks;
 
 namespace Projeto_CadastroProdutos_16_05
 {
+
+    // public Usuário()
+    // {
+        
+    // }
     public class Usuario
     {
         private Random CodigoUser = new Random();
@@ -47,10 +52,20 @@ namespace Projeto_CadastroProdutos_16_05
         {
             foreach (var item in listUsers)
             {
+
                 Console.WriteLine($"email {item.EmailUser}, senha: {item.SenhaUser}");
                 
             }
         }
+
+        // public void UserLogado(string  _userName, Usuario user)
+        // {
+
+        //     user = listUsers.Find(x => x.NameUser == _userName);
+
+        //     Console.WriteLine($"Cadastrado por: {user.NameUser}");
+
+        // }
 
         public bool ValidacaoCadastro(string email, string senha )
         {
