@@ -14,7 +14,7 @@ namespace Projeto_CadastroProdutos_16_05
         public string MarcaProduto { get; set; }
         public int CodigoMarca { get; set; }
         DateTime DataCadastro = DateTime.Now;
-        public Usuario CadastradoPor { get; set; }
+        public Usuario CadastradoPor = new Usuario();
         public Marca marca = new Marca();
 
         List<Produto> listaDeProdutos = new List<Produto>();
@@ -23,7 +23,7 @@ namespace Projeto_CadastroProdutos_16_05
         {
 
             Produto receberProduto = new Produto();
-            Usuario cadastradoPor = new Usuario();
+
 
             Console.WriteLine($"Digite o código do produto para cadastro.");
             receberProduto.CodigoProduto = int.Parse(Console.ReadLine());
@@ -42,7 +42,7 @@ namespace Projeto_CadastroProdutos_16_05
             receberProduto.PrecoProduto = float.Parse(Console.ReadLine());
 
             Console.WriteLine($"Data de cadastro : {DataCadastro}");
-            Console.WriteLine($"cadastrado por: {cadastradoPor.NameUser}");
+            receberProduto.CadastradoPor = CadastradoPor.CadastrarUsuario();
 
 
             // Console.WriteLine($"Digite seu email:");
@@ -67,6 +67,7 @@ namespace Projeto_CadastroProdutos_16_05
                 - Nome da marca = {item.MarcaProduto}
                 - Preço do produto = {item.PrecoProduto:C}
                 - Data de cadastro = {DataCadastro}
+                - Cadastrado por = {item.CadastradoPor.NameUser}
                 ");
 
             }
@@ -76,7 +77,7 @@ namespace Projeto_CadastroProdutos_16_05
         {
 
             Console.WriteLine($"Digite o nome do produto que voce deseja deletar");
-            string deleteProduct = Console.ReadLine();            
+            string deleteProduct = Console.ReadLine();
 
             Produto produtoEncontrado = listaDeProdutos.Find(x => x.NomeProduto == deleteProduct);
 

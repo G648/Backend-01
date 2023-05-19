@@ -26,9 +26,9 @@ namespace Projeto_CadastroProdutos_16_05
 
             Usuario user = new Usuario(); //aqui estou criando um objeto para a minha classe de usuário
             Console.Clear();
-            Carregamento(500, 5, "carregando");
-            // startOfLoop:
+            Carregamento(500, 5, "carregando");        // startOfLoop:
             Console.WriteLine($"Por gentileza, informe seu email para realizar login na plataforma");
+    
             string email = Console.ReadLine();
 
             Console.WriteLine($"Por gentileza, informe sua senha para realizar login na plataforma");
@@ -52,7 +52,7 @@ namespace Projeto_CadastroProdutos_16_05
                 Console.WriteLine($"Usuário não cadastrado no sistema.");
                 Carregamento(500, 5 , "Redirecionando para tela de cadastro");
 
-                cadastroUser.CadastrarUsuario(email, senha);
+                cadastroUser.CadastrarUsuario();
                 Console.WriteLine($"Usuário cadastrado com sucesso!");
                 Carregamento(500, 5, "carregando");
                 cadastroUser.ListarUsuario();
@@ -121,16 +121,19 @@ namespace Projeto_CadastroProdutos_16_05
 
                         Carregamento(500, 5, "Redirecionando para a tela de cadastro de marcas");
                         //cadastro de marca
+                        marca.Cadastrar();
                         break;
                     case "5":
                         
                         Carregamento(500, 5, "Redirecionando para a tela de listagem de marcas");
                         //listagem de marca
+                        marca.Listar();
                         break;
                     case "6":
                        
                         Carregamento(500, 5, "Redirecionando para a tela de delete de marcas");
                         //deletar marca
+                        // marca.Deletar(int cod);
                         break;
                     case "0":
                         Carregamento(500, 5, "Saindo do programa");

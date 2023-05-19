@@ -9,7 +9,7 @@ namespace Projeto_CadastroProdutos_16_05
     {
         public void Carregamento(int tempo, int pontos, string texto)
         {
-            Console.Write($"texto");
+            Console.Write(texto);
 
             for (var i = 0; i < pontos; i++)
             {

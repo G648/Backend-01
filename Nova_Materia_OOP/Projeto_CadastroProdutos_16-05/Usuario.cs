@@ -3,25 +3,27 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-
 namespace Projeto_CadastroProdutos_16_05
 {
 
-    // public Usuário()
-    // {
-        
-    // }
+
     public class Usuario
     {
+
         private Random CodigoUser = new Random();
         public string NameUser { get; set; }
         public string EmailUser { get; set; }
         public string SenhaUser { get; set; }
         // private DateTime DataDeCadastroUser;
         DateTime dataDeCadastroUser = DateTime.Now;
-        List<Usuario> listUsers = new List<Usuario>();
+        public static List<Usuario> listUsers = new List<Usuario>();
 
-        public string CadastrarUsuario(string email, string senha)
+        // public Usuario()
+        // {
+        //     CadastrarUsuario();
+        // }
+
+        public Usuario CadastrarUsuario()
         {
             // Login loginUser = new Login();
 
@@ -44,7 +46,7 @@ namespace Projeto_CadastroProdutos_16_05
             listUsers.Add(cadastradoUser);
             //aqui eu to colocando os objetod criados dentro de uma lista
 
-            return "";
+            return cadastradoUser;
 
         }
 
@@ -54,7 +56,7 @@ namespace Projeto_CadastroProdutos_16_05
             {
 
                 Console.WriteLine($"email {item.EmailUser}, senha: {item.SenhaUser}");
-                
+
             }
         }
 
@@ -67,7 +69,7 @@ namespace Projeto_CadastroProdutos_16_05
 
         // }
 
-        public bool ValidacaoCadastro(string email, string senha )
+        public bool ValidacaoCadastro(string email, string senha)
         {
 
             Usuario validacaoEmail = listUsers.Find(x => x.EmailUser == email);
@@ -75,9 +77,9 @@ namespace Projeto_CadastroProdutos_16_05
 
             if (validacaoEmail == null)
             {
-                
+
                 return false;
-                
+
             }
 
             if (validacaoEmail.EmailUser == email && validacaoEmail.EmailUser != null)
@@ -91,12 +93,13 @@ namespace Projeto_CadastroProdutos_16_05
                 return false;
             }
 
-            
+
+            // }
+
+            // public string DeletarUsuario()
+            // {
+
+            // }
         }
-
-        // public string DeletarUsuario()
-        // {
-
-        // }
     }
 }
