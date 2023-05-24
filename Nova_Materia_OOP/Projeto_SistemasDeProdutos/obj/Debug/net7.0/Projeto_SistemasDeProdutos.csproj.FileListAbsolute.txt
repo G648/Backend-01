@@ -1,0 +1,15 @@
+C:\Users\Docente\Desktop\Backend-01\Nova_Materia_OOP\Projeto_SistemasDeProdutos\bin\Debug\net7.0\Projeto_SistemasDeProdutos.exe
+C:\Users\Docente\Desktop\Backend-01\Nova_Materia_OOP\Projeto_SistemasDeProdutos\bin\Debug\net7.0\Projeto_SistemasDeProdutos.deps.json
+C:\Users\Docente\Desktop\Backend-01\Nova_Materia_OOP\Projeto_SistemasDeProdutos\bin\Debug\net7.0\Projeto_SistemasDeProdutos.runtimeconfig.json
+C:\Users\Docente\Desktop\Backend-01\Nova_Materia_OOP\Projeto_SistemasDeProdutos\bin\Debug\net7.0\Projeto_SistemasDeProdutos.dll
+C:\Users\Docente\Desktop\Backend-01\Nova_Materia_OOP\Projeto_SistemasDeProdutos\bin\Debug\net7.0\Projeto_SistemasDeProdutos.pdb
+C:\Users\Docente\Desktop\Backend-01\Nova_Materia_OOP\Projeto_SistemasDeProdutos\obj\Debug\net7.0\Projeto_SistemasDeProdutos.csproj.AssemblyReference.cache
+C:\Users\Docente\Desktop\Backend-01\Nova_Materia_OOP\Projeto_SistemasDeProdutos\obj\Debug\net7.0\Projeto_SistemasDeProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Docente\Desktop\Backend-01\Nova_Materia_OOP\Projeto_SistemasDeProdutos\obj\Debug\net7.0\Projeto_SistemasDeProdutos.AssemblyInfoInputs.cache
+C:\Users\Docente\Desktop\Backend-01\Nova_Materia_OOP\Projeto_SistemasDeProdutos\obj\Debug\net7.0\Projeto_SistemasDeProdutos.AssemblyInfo.cs
+C:\Users\Docente\Desktop\Backend-01\Nova_Materia_OOP\Projeto_SistemasDeProdutos\obj\Debug\net7.0\Projeto_SistemasDeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\Docente\Desktop\Backend-01\Nova_Materia_OOP\Projeto_SistemasDeProdutos\obj\Debug\net7.0\Projeto_SistemasDeProdutos.dll
+C:\Users\Docente\Desktop\Backend-01\Nova_Materia_OOP\Projeto_SistemasDeProdutos\obj\Debug\net7.0\refint\Projeto_SistemasDeProdutos.dll
+C:\Users\Docente\Desktop\Backend-01\Nova_Materia_OOP\Projeto_SistemasDeProdutos\obj\Debug\net7.0\Projeto_SistemasDeProdutos.pdb
+C:\Users\Docente\Desktop\Backend-01\Nova_Materia_OOP\Projeto_SistemasDeProdutos\obj\Debug\net7.0\Projeto_SistemasDeProdutos.genruntimeconfig.cache
+C:\Users\Docente\Desktop\Backend-01\Nova_Materia_OOP\Projeto_SistemasDeProdutos\obj\Debug\net7.0\ref\Projeto_SistemasDeProdutos.dll
