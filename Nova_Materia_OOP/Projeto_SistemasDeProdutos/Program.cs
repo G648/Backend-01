@@ -15,8 +15,6 @@
 
 using Projeto_SistemasDeProdutos;
 
-
-
 Produto P1 = new Produto();
 
 do
@@ -25,11 +23,10 @@ startOfLoop:
     Console.WriteLine(@$"Seja bem vindo ao menu de produtos. Selecione uma opção do menu:
 [1] - Cadastrar produto;
 [2] - Listar produto;
-[3] - Mostrar menu;
 [0] - Sair do programa;
 ");
 
-    string escolhaMenu = Console.ReadLine();
+    string escolhaMenu = Console.ReadLine()!;
 
     switch (escolhaMenu)
     {
@@ -46,12 +43,6 @@ startOfLoop:
             Console.WriteLine($"");
             P1.ListarProdutos();
             P1.loopBreak = true;
-            break;
-        case "3":
-            if (escolhaMenu == "3")
-            {
-                goto startOfLoop;
-            }
             break;
         case "0":
             P1.Carregamento("Realizando o desligamento do programa");

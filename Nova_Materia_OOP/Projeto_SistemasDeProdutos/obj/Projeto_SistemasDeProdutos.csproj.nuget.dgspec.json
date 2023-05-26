@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Docente\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_SistemasDeProdutos\\Projeto_SistemasDeProdutos.csproj": {}
+    "C:\\Users\\45845444845\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_SistemasDeProdutos\\Projeto_SistemasDeProdutos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Docente\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_SistemasDeProdutos\\Projeto_SistemasDeProdutos.csproj": {
+    "C:\\Users\\45845444845\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_SistemasDeProdutos\\Projeto_SistemasDeProdutos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Docente\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_SistemasDeProdutos\\Projeto_SistemasDeProdutos.csproj",
+        "projectUniqueName": "C:\\Users\\45845444845\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_SistemasDeProdutos\\Projeto_SistemasDeProdutos.csproj",
         "projectName": "Projeto_SistemasDeProdutos",
-        "projectPath": "C:\\Users\\Docente\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_SistemasDeProdutos\\Projeto_SistemasDeProdutos.csproj",
-        "packagesPath": "C:\\Users\\Docente\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Docente\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_SistemasDeProdutos\\obj\\",
+        "projectPath": "C:\\Users\\45845444845\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_SistemasDeProdutos\\Projeto_SistemasDeProdutos.csproj",
+        "packagesPath": "C:\\Users\\45845444845\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\45845444845\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_SistemasDeProdutos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Docente\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\45845444845\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

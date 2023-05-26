@@ -9,9 +9,10 @@ namespace Projeto_SistemasDeProdutos
     {
         private bool validacao;
         public bool loopBreak;
-        public string Nome { get; set; }
+        public string? Nome { get; set; }
         public float Preço { get; set; }
         public bool promocao { get; set; }
+        public char produtoPromocao { get; set; }
 
         //precisamos criar a lista para armezar as informações
         List<Produto> listProducts = new List<Produto>();
@@ -30,17 +31,30 @@ namespace Projeto_SistemasDeProdutos
                     {
                         try
                         {
-                            //precisamos criar um objeto para inserir os dados dentro da lista
                             Produto createProduct = new Produto();
-                            
-                            Console.WriteLine($"Por gentilza, informe o nome do {i + 1}° produto:");
-                            createProduct.Nome = Console.ReadLine();
 
+                            Console.WriteLine($"Por gentilza, informe o nome do {i + 1}° produto:");
+                            createProduct.Nome = Console.ReadLine()!;
+                            //precisamos criar um objeto para inserir os dados dentro da lista
+
+                            Console.WriteLine($"O produto está em promoção ? Digite s - para sim e n - para não");
+                            createProduct.produtoPromocao = char.Parse(Console.ReadLine()!);
+
+                            if (createProduct.produtoPromocao == 's')
+                            {
+                                promocao = true;
+                            }
+                            else if (createProduct.produtoPromocao == 'n')
+                            {
+                                promocao = false;
+                            }
 
                             Console.WriteLine($"Por gentilza, informe o preço do produto:");
-                            createProduct.Preço = float.Parse(Console.ReadLine());
+                            createProduct.Preço = float.Parse(Console.ReadLine()!);
 
                             listProducts.Add(createProduct);
+
+                            validacao = false;
                         }
                         catch (Exception error)
                         {
@@ -72,6 +86,14 @@ namespace Projeto_SistemasDeProdutos
                 O nome do produto cadastrado é: {item.Nome}
                 O preço do produto cadastrado é de: {item.Preço:C}
                 ");
+                if (promocao == true)
+                {
+                    Console.WriteLine($"O produto está em promoção!{item.produtoPromocao}");
+                }
+                else if (promocao != true)
+                {
+                    Console.WriteLine($"O produto não está em promoção {item.produtoPromocao}");
+                }
             }
 
         }
@@ -82,7 +104,7 @@ namespace Projeto_SistemasDeProdutos
             for (int i = 0; i < 5; i++)
             {
                 Console.Write($".");
-                Thread.Sleep(500);
+                Thread.Sleep(300);
             }
             Console.Clear();
         }
