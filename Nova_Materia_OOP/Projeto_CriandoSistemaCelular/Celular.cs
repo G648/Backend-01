@@ -18,36 +18,74 @@ namespace Projeto_CriandoSistemaCelular
 {
     public class Celular
     {
-        public string senhaCelular = "123456";
+        public string escolhaEstado;
         public string selecionarOpcao;
         public string cor;
         public string modelo;
         public string tamanho;
-        // public bool estadoCelular;
+        public bool estadoCelular;
+        public bool loopBreak;
 
 
-        public void Ligar(){
+         public void Carregamento()
+        {
+            Console.Write($"Carregando");
 
-            Console.WriteLine($"O celular está ligado");
+            for (var i = 0; i < 5; i++)
+            {
+                Console.Write($".");
+                Thread.Sleep(800);
+            }
+
+            Console.Clear();
+        }
+        public void LigarCelular()
+        {
+
+            Console.WriteLine($"O celular está ligado...");
+            Thread.Sleep(2000);
+        }
+
+        public void DesligarCelular()
+        {
+
+            Console.WriteLine($"O celular está desligando...");
+            Thread.Sleep(2000);
+            Console.WriteLine($"Celular desligado com sucesso!");
 
         }
 
-        public void Desligar(){
+        public void FazerLigacao()
+        {
 
-            Console.WriteLine($"O celular está desligado");
-            
+            Console.WriteLine($"Fazendo ligação!");
+            Thread.Sleep(2000);
+            Console.WriteLine($"Ligação realizada com sucesso!");
         }
 
-        public void FazerLigacao(){
+        public void EnviarMensagem()
+        {
 
-            Console.WriteLine($"Você decidiu fazer ligação!");
-            
+            Console.WriteLine($"Enviando mensagem!");
+            Thread.Sleep(2000);
+            Console.WriteLine($"Mensagem enviada com sucesso!");
+
         }
 
-        public void EnviarMensagem(){
+        public void DetalhesTecnicos()
+        {
+           
+            Console.WriteLine($"Por gentileza, informe a cor do seu smartphone: ");
+            cor = Console.ReadLine();
 
-            Console.WriteLine($"Você decidiu enviar uma mensagem!");
+            Console.WriteLine($"Por gentileza, informe o modelo do seu smartphone: ");
+            modelo = Console.ReadLine();
+
+            Console.WriteLine($"Por gentileza, informe o tamanho do seu smartphone: ");
+            tamanho = Console.ReadLine();
+
             
+
         }
     }
 }
