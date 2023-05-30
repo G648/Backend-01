@@ -19,9 +19,10 @@ namespace Projeto_Gamer_MVC.Models
         [Required(ErrorMessage = "O email do usuário é obrigatório neste campo!", AllowEmptyStrings = false)]
         public string? Email { get; set; }
         public string? senha { get; set; }
+        
         //data annotation "Aqui vai o nome da tabela que "
         [ForeignKey("Equipe")] //usando o data annotation para referenciar que é uma chave estrangeira 
         public int IdEquipe { get; set; }
-
+        public Equipe? Equipe {get; set;}
     }
 }

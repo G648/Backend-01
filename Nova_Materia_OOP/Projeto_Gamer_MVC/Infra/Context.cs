@@ -5,7 +5,7 @@ namespace Projeto_Gamer_MVC.Infra
 {
     public class Context : DbContext
     {
-        //pasta criada para acessar o banco de dados
+        //pasta criada para acessar o BANCO DE DADOS    
         //vai herdar de uma classe nativa do c#
 
         public Context()
@@ -36,7 +36,7 @@ namespace Projeto_Gamer_MVC.Infra
                 //user Id = "nome do usuário de login do banco de dados"
                 //pwd = "nome da senha do banco de dados"
 
-                optionsBuilder.UseSqlServer("Data Source = aqui vai o nome da conexão; initial catalog = gamerManha; Integrated Security = true; TrustServerCertificate = true"); // --> gerenciador do banco de dados
+                optionsBuilder.UseSqlServer("Data Source = NOTE15-S15; Initial Catalog = projetoGamerManhaMVC; User Id = sa; pwd = Senai@134; TrustServerCertificate = true"); // --> gerenciador do banco de dados
 
             }
         }
