@@ -8,4 +8,8 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Projeto_Escola_CadastroAlunos
+<<<<<<< HEAD
+build_property.ProjectDir = c:\Users\sn1073007.SP\Desktop\BackEnd-SENAI\Backend-01\Nova_Materia_OOP\Projeto_Escola_CadastroAlunos\
+=======
 build_property.ProjectDir = c:\Users\45845444845\Desktop\Backend-01\Nova_Materia_OOP\Projeto_Escola_CadastroAlunos\
+>>>>>>> d4b932a0879429ade84eb42d60d0c7ad7c778bbb

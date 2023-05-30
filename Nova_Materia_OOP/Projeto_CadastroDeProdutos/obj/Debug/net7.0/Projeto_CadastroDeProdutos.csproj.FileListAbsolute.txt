@@ -1,0 +1,15 @@
+C:\Users\sn1073007.SP\Desktop\BackEnd-SENAI\Backend-01\Nova_Materia_OOP\Projeto_CadastroDeProdutos\bin\Debug\net7.0\Projeto_CadastroDeProdutos.exe
+C:\Users\sn1073007.SP\Desktop\BackEnd-SENAI\Backend-01\Nova_Materia_OOP\Projeto_CadastroDeProdutos\bin\Debug\net7.0\Projeto_CadastroDeProdutos.deps.json
+C:\Users\sn1073007.SP\Desktop\BackEnd-SENAI\Backend-01\Nova_Materia_OOP\Projeto_CadastroDeProdutos\bin\Debug\net7.0\Projeto_CadastroDeProdutos.runtimeconfig.json
+C:\Users\sn1073007.SP\Desktop\BackEnd-SENAI\Backend-01\Nova_Materia_OOP\Projeto_CadastroDeProdutos\bin\Debug\net7.0\Projeto_CadastroDeProdutos.dll
+C:\Users\sn1073007.SP\Desktop\BackEnd-SENAI\Backend-01\Nova_Materia_OOP\Projeto_CadastroDeProdutos\bin\Debug\net7.0\Projeto_CadastroDeProdutos.pdb
+C:\Users\sn1073007.SP\Desktop\BackEnd-SENAI\Backend-01\Nova_Materia_OOP\Projeto_CadastroDeProdutos\obj\Debug\net7.0\Projeto_CadastroDeProdutos.csproj.AssemblyReference.cache
+C:\Users\sn1073007.SP\Desktop\BackEnd-SENAI\Backend-01\Nova_Materia_OOP\Projeto_CadastroDeProdutos\obj\Debug\net7.0\Projeto_CadastroDeProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1073007.SP\Desktop\BackEnd-SENAI\Backend-01\Nova_Materia_OOP\Projeto_CadastroDeProdutos\obj\Debug\net7.0\Projeto_CadastroDeProdutos.AssemblyInfoInputs.cache
+C:\Users\sn1073007.SP\Desktop\BackEnd-SENAI\Backend-01\Nova_Materia_OOP\Projeto_CadastroDeProdutos\obj\Debug\net7.0\Projeto_CadastroDeProdutos.AssemblyInfo.cs
+C:\Users\sn1073007.SP\Desktop\BackEnd-SENAI\Backend-01\Nova_Materia_OOP\Projeto_CadastroDeProdutos\obj\Debug\net7.0\Projeto_CadastroDeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\sn1073007.SP\Desktop\BackEnd-SENAI\Backend-01\Nova_Materia_OOP\Projeto_CadastroDeProdutos\obj\Debug\net7.0\Projeto_CadastroDeProdutos.dll
+C:\Users\sn1073007.SP\Desktop\BackEnd-SENAI\Backend-01\Nova_Materia_OOP\Projeto_CadastroDeProdutos\obj\Debug\net7.0\refint\Projeto_CadastroDeProdutos.dll
+C:\Users\sn1073007.SP\Desktop\BackEnd-SENAI\Backend-01\Nova_Materia_OOP\Projeto_CadastroDeProdutos\obj\Debug\net7.0\Projeto_CadastroDeProdutos.pdb
+C:\Users\sn1073007.SP\Desktop\BackEnd-SENAI\Backend-01\Nova_Materia_OOP\Projeto_CadastroDeProdutos\obj\Debug\net7.0\Projeto_CadastroDeProdutos.genruntimeconfig.cache
+C:\Users\sn1073007.SP\Desktop\BackEnd-SENAI\Backend-01\Nova_Materia_OOP\Projeto_CadastroDeProdutos\obj\Debug\net7.0\ref\Projeto_CadastroDeProdutos.dll

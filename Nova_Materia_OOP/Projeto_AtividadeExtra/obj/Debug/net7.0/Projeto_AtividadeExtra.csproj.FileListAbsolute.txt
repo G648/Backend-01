@@ -1,0 +1,5 @@
+C:\Users\sn1073007.SP\Desktop\BackEnd-SENAI\Backend-01\Nova_Materia_OOP\Projeto_AtividadeExtra\obj\Debug\net7.0\Projeto_AtividadeExtra.csproj.AssemblyReference.cache
+C:\Users\sn1073007.SP\Desktop\BackEnd-SENAI\Backend-01\Nova_Materia_OOP\Projeto_AtividadeExtra\obj\Debug\net7.0\Projeto_AtividadeExtra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1073007.SP\Desktop\BackEnd-SENAI\Backend-01\Nova_Materia_OOP\Projeto_AtividadeExtra\obj\Debug\net7.0\Projeto_AtividadeExtra.AssemblyInfoInputs.cache
+C:\Users\sn1073007.SP\Desktop\BackEnd-SENAI\Backend-01\Nova_Materia_OOP\Projeto_AtividadeExtra\obj\Debug\net7.0\Projeto_AtividadeExtra.AssemblyInfo.cs
+C:\Users\sn1073007.SP\Desktop\BackEnd-SENAI\Backend-01\Nova_Materia_OOP\Projeto_AtividadeExtra\obj\Debug\net7.0\Projeto_AtividadeExtra.csproj.CoreCompileInputs.cache
