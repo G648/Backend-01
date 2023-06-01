@@ -19,20 +19,13 @@
 
     <form method="post" action='@Url.Action("Cadastrar")' enctype="multipart/form-data">
         <label for="">Nome</label>
-        <input type="text" name="Nome">
+        <input type="text" name="Nome" required>
 
         <label for="">Imagem</label>
         <input type="file" name="Imagem">
 
         <button type="submit">Cadastrar</button>
-    </form> 
-
-    <form method="post" action='@Url.Action("Deletar")'>
-        <label for="">Nome</label>
-        <input type="text" name="Nome">
-
-        <button type="submit">Deletar</button>
-    </form> 
+    </form>
 
     @* criando uma table para armazenar nossos dados *@
 
@@ -41,6 +34,8 @@
             <th>Id</th>
             <th>Nome</th>
             <th>Imagem</th>
+            <th>Excluir</th>
+            <th>Editar</th>
         </thead>
 
         <tbody>
@@ -55,8 +50,25 @@
                         <img src="/img/Equipes/@equipe.Imagem" alt="" width="60px">
 
                     </td>
+                    <td>
+                                @* uma forma de fazer: *@
+                        @* <a href="http://localhost:5195/Equipe/Excluir/@equipe.IdEquipe">
+
+                            <input type="button" id="delete" value="Delete" asp-controller="Equipe" asp-action="Excluir"
+                                class="btn btn-primary" onclick="DeleteItem(@equipe.IdEquipe)">
+                        </a> *@
+                                @* Outra forma de fazer: *@
+                        <a asp-area="" asp-controller="Equipe" asp-action="Excluir" asp-route-id="@equipe.IdEquipe"> 🗑️ </a>
+
+                    </td>
+                    <td>
+                        
+                            <a  class="nav-link text-dark asp-area=" asp-controller="Equipe" asp-action="Editar"> ✏️ </a>
+
+                        @* <a href="" style="text-decoration: none"> ✏️ </a> *@
+                    </td>
                 </tr>
-            
+
             }
 
         </tbody>

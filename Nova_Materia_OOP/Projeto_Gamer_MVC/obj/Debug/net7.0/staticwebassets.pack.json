@@ -13,6 +13,34 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\45845444845\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_Gamer_MVC\\wwwroot\\img\\Equipes\\Captura de Tela (1).png",
+      "PackagePath": "staticwebassets\\img\\Equipes\\Captura de Tela (1).png"
+    },
+    {
+      "Id": "C:\\Users\\45845444845\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_Gamer_MVC\\wwwroot\\img\\Equipes\\GSW.jpg",
+      "PackagePath": "staticwebassets\\img\\Equipes\\GSW.jpg"
+    },
+    {
+      "Id": "C:\\Users\\45845444845\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_Gamer_MVC\\wwwroot\\img\\Equipes\\coritiba.jpg",
+      "PackagePath": "staticwebassets\\img\\Equipes\\coritiba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\45845444845\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_Gamer_MVC\\wwwroot\\img\\Equipes\\curintia2.jpg",
+      "PackagePath": "staticwebassets\\img\\Equipes\\curintia2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\45845444845\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_Gamer_MVC\\wwwroot\\img\\Equipes\\fazoL.jpg",
+      "PackagePath": "staticwebassets\\img\\Equipes\\fazoL.jpg"
+    },
+    {
+      "Id": "C:\\Users\\45845444845\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_Gamer_MVC\\wwwroot\\img\\Equipes\\loud.jpg",
+      "PackagePath": "staticwebassets\\img\\Equipes\\loud.jpg"
+    },
+    {
+      "Id": "C:\\Users\\45845444845\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_Gamer_MVC\\wwwroot\\img\\Equipes\\redcnds.jpg",
+      "PackagePath": "staticwebassets\\img\\Equipes\\redcnds.jpg"
+    },
+    {
       "Id": "C:\\Users\\45845444845\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_Gamer_MVC\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
