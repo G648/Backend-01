@@ -12,6 +12,7 @@ namespace Projeto_Gamer_MVC.Models
         //referenciar a classe Equipe com a classe Jogador
         //Usado quando eu tenho a chave primária e uma chave secundária em outro lugar
         //se nesse outro lugar tivesse uma chave primária, eu colocaria o collection lá!
+
         public ICollection<Jogador>? Jogador {get; set;}
 
     }

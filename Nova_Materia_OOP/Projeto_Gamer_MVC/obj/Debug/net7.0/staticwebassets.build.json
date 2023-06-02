@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tbI7YnQm405VsErgHqu24c5TAkAi88kR5WuDE2b8L9c=",
+  "Hash": "f5sz5E8btVBpb9XyCFspx7oKq2in7z0LLhRqetLBSjo=",
   "Source": "Projeto_Gamer_MVC",
   "BasePath": "_content/Projeto_Gamer_MVC",
   "Mode": "Default",
@@ -170,6 +170,23 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\GSW.jpg"
     },
     {
+      "Identity": "C:\\Users\\45845444845\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_Gamer_MVC\\wwwroot\\img\\Equipes\\logo basquete.jpg",
+      "SourceId": "Projeto_Gamer_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\45845444845\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_Gamer_MVC\\wwwroot\\",
+      "BasePath": "_content/Projeto_Gamer_MVC",
+      "RelativePath": "img/Equipes/logo basquete.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Equipes\\logo basquete.jpg"
+    },
+    {
       "Identity": "C:\\Users\\45845444845\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_Gamer_MVC\\wwwroot\\img\\Equipes\\loud.jpg",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
@@ -187,6 +204,23 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\loud.jpg"
     },
     {
+      "Identity": "C:\\Users\\45845444845\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_Gamer_MVC\\wwwroot\\img\\Equipes\\padrao.jpg",
+      "SourceId": "Projeto_Gamer_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\45845444845\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_Gamer_MVC\\wwwroot\\",
+      "BasePath": "_content/Projeto_Gamer_MVC",
+      "RelativePath": "img/Equipes/padrao.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Equipes\\padrao.jpg"
+    },
+    {
       "Identity": "C:\\Users\\45845444845\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_Gamer_MVC\\wwwroot\\img\\Equipes\\redcnds.jpg",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
@@ -202,6 +236,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\redcnds.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\45845444845\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_Gamer_MVC\\wwwroot\\img\\Equipes\\SaopauloCorrea.jpg",
+      "SourceId": "Projeto_Gamer_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\45845444845\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_Gamer_MVC\\wwwroot\\",
+      "BasePath": "_content/Projeto_Gamer_MVC",
+      "RelativePath": "img/Equipes/SaopauloCorrea.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Equipes\\SaopauloCorrea.jpg"
     },
     {
       "Identity": "C:\\Users\\45845444845\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_Gamer_MVC\\wwwroot\\js\\site.js",

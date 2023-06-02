@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\img\\Equipes\\GSW.jpg"
     },
     {
+      "Id": "C:\\Users\\45845444845\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_Gamer_MVC\\wwwroot\\img\\Equipes\\SaopauloCorrea.jpg",
+      "PackagePath": "staticwebassets\\img\\Equipes\\SaopauloCorrea.jpg"
+    },
+    {
       "Id": "C:\\Users\\45845444845\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_Gamer_MVC\\wwwroot\\img\\Equipes\\coritiba.jpg",
       "PackagePath": "staticwebassets\\img\\Equipes\\coritiba.jpg"
     },
@@ -33,8 +37,16 @@
       "PackagePath": "staticwebassets\\img\\Equipes\\fazoL.jpg"
     },
     {
+      "Id": "C:\\Users\\45845444845\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_Gamer_MVC\\wwwroot\\img\\Equipes\\logo basquete.jpg",
+      "PackagePath": "staticwebassets\\img\\Equipes\\logo basquete.jpg"
+    },
+    {
       "Id": "C:\\Users\\45845444845\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_Gamer_MVC\\wwwroot\\img\\Equipes\\loud.jpg",
       "PackagePath": "staticwebassets\\img\\Equipes\\loud.jpg"
+    },
+    {
+      "Id": "C:\\Users\\45845444845\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_Gamer_MVC\\wwwroot\\img\\Equipes\\padrao.jpg",
+      "PackagePath": "staticwebassets\\img\\Equipes\\padrao.jpg"
     },
     {
       "Id": "C:\\Users\\45845444845\\Desktop\\Backend-01\\Nova_Materia_OOP\\Projeto_Gamer_MVC\\wwwroot\\img\\Equipes\\redcnds.jpg",

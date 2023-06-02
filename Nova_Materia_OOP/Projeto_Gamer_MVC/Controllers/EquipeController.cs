@@ -35,7 +35,7 @@ namespace Projeto_Gamer_MVC.Controllers
             return View();
         }
 
-        [Route ("Cadastrar")]
+        [Route("Cadastrar")]
         public IActionResult Cadastrar(IFormCollection form)
         {
             //novo objeto do tipo equipe
@@ -70,15 +70,14 @@ namespace Projeto_Gamer_MVC.Controllers
                 }
 
                 novaEquipe.Imagem = file.FileName;
-                
+
             }
             else
             {
-                novaEquipe.Imagem = "padrao.png";
+                novaEquipe.Imagem = "padrao.jpg";
             }
 
             //remover a imagem da pasta de imagens quando excluir as imagens lá na minha view  
-
 
             //adiciona uma nova tabela no DB
             conexaoBancoContext.Equipe.Add(novaEquipe);
@@ -87,7 +86,7 @@ namespace Projeto_Gamer_MVC.Controllers
             conexaoBancoContext.SaveChanges();
 
             //retorna para o local chamando a rota de listar
-            return LocalRedirect ("~/Equipe/Listar");
+            return LocalRedirect("~/Equipe/Listar");
         }
 
 
@@ -101,100 +100,98 @@ namespace Projeto_Gamer_MVC.Controllers
 
         //criando o método de deletar
         [Route("Excluir/{id}")]
-        public IActionResult Excluir (int id)
+        public IActionResult Excluir(int id)
         {
-            Equipe equipeEncontrada = conexaoBancoContext.Equipe.FirstOrDefault(x => x.IdEquipe == id);
+            Equipe equipeEncontrada = conexaoBancoContext.Equipe.FirstOrDefault(x => x.IdEquipe == id)!;
 
             conexaoBancoContext.Remove(equipeEncontrada);
 
+            var fileName = Path.GetFileName(equipeEncontrada.Imagem);
+            var physicalPath = Path.Combine(Directory.GetCurrentDirectory(), "/wwwroot/img/Equipes");
+
+            if (System.IO.File.Exists(physicalPath))
+            {
+                System.IO.File.Delete(physicalPath);
+            }
+
+            // var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroo/img/", folder, file.FileName);
+
+            // using (var stream = new FileStream(path, FileMode.Create))
+            // {
+            //     file.CopyTo(stream);
+            // }
+
+            // equipeEncontrada.Imagem = fileName.FileName;
+
+
             conexaoBancoContext.SaveChanges();
 
             return LocalRedirect("~/Equipe/Listar");
 
         }
 
-        [Route("Equipe/Editar/{id}")]
-        public IActionResult Editar (int id)
+        [Route("Editar/{id}")] // {} serve para os parametros que eu tenho dentro do método
+        public IActionResult Editar(int id)
         {
-            Equipe equipeEncontrada = conexaoBancoContext.Equipe.FirstOrDefault(x => x.IdEquipe == id);
+            Equipe equipeEditar = conexaoBancoContext.Equipe.First(x => x.IdEquipe == id);
+
+            ViewBag.Equipe = equipeEditar;
+
+            return View("Editar");
+        }
+
+        [Route("Atualizar")]
+        public IActionResult Atualizar(IFormCollection form)
+        {
+            Equipe equipeAtualizada = new Equipe();
+
+            equipeAtualizada.IdEquipe = int.Parse(form["IdEquipe"].ToString());
+
+            equipeAtualizada.Nome = form["Nome"].ToString();
+
+            equipeAtualizada.Imagem = form["Imagem"].ToString();
+
+            if (form.Files.Count > 0)
+            {
+                //criando variável para alocar ar imagens desde o índice 0
+                var file = form.Files[0];
+
+                //criando uma varriável para criar o diretório Equipes
+                var folder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/img/Equipes");
+
+                if (!Directory.Exists(folder))
+                {
+                    Directory.CreateDirectory(folder);
+                }
+
+                //gerar o caminho completo até o caminho do arquivo (imagem - nome com extensão)
+                var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/img/", folder, file.FileName);
+
+                using (var stream = new FileStream(path, FileMode.Create))
+                {
+                    file.CopyTo(stream);
+                }
+
+                equipeAtualizada.Imagem = file.FileName;
+
+            }
+            else
+            {
+                equipeAtualizada.Imagem = "padrao.jpg";
+            }
+
+            Equipe equipeEncontrada = conexaoBancoContext.Equipe.First(x => x.IdEquipe == equipeAtualizada.IdEquipe);
+
+            equipeEncontrada.Nome = equipeAtualizada.Nome;
+
+            equipeEncontrada.Imagem = equipeAtualizada.Imagem;
+
+            conexaoBancoContext.Equipe.Update(equipeEncontrada);
 
             conexaoBancoContext.SaveChanges();
 
             return LocalRedirect("~/Equipe/Listar");
         }
+
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        // [Route("Deletar")]
-        // public IActionResult Deletar(IFormCollection form)
-        // {
-        //     // //instancia de um novo objeto
-        //     // Equipe deleteEquipe = new Equipe();
-
-        //     // //atribuição de valores
-        //     // deleteEquipe.Nome = form["Nome"].ToString();
-
-        //     // var equipeEcontrada = conexaoBancoContext.Equipe.FirstOrDefault(x => x.IdEquipe == deleteEquipe.Nome)
-        //     // Equipe equipeEncontrada = ViewBag.Find(x => x.Nome == deleteEquipe.Nome);
-
-        //     return View();
-
-        //     // return LocalRedirect ("~/Equipe/Listar");
-        // }
-
-        // [HttpPost]
-        // [ValidateAntiForgeryToken] public ActionResult
-        // Delete(int Studentid)
-        // {
-        //     using(var conexaoBancoContext = new Equipe())
-        //     {
-        //         var data = conexaoBancoContext.Equipe.FirstOrDefault(x = > x.StudentNo == Studentid);
-        //         if (data != null) {
-        //             conexaoBancoContext.Equipe.Remove(data);
-        //             conexaoBancoContext.SaveChanges();
-        //             return RedirectToAction("Read");
-        //         }
-        //         else
-        //             return View();
-        //     }
-        // }
