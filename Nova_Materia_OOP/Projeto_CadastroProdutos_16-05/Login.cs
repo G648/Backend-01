@@ -1,8 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
 namespace Projeto_CadastroProdutos_16_05
 {
     public class Login : Utils //a classe login está herdando da classe de utils,  mesmo sem usar uma classeabstrata em utils;
@@ -28,7 +23,7 @@ namespace Projeto_CadastroProdutos_16_05
             Console.Clear();
             Carregamento(500, 5, "carregando");        // startOfLoop:
             Console.WriteLine($"Por gentileza, informe seu email para realizar login na plataforma");
-    
+
             string email = Console.ReadLine();
 
             Console.WriteLine($"Por gentileza, informe sua senha para realizar login na plataforma");
@@ -49,8 +44,45 @@ namespace Projeto_CadastroProdutos_16_05
             {
                 logado = false;
                 Usuario cadastroUser = new Usuario();
+
                 Console.WriteLine($"Usuário não cadastrado no sistema.");
-                Carregamento(500, 5 , "Redirecionando para tela de cadastro");
+                Console.WriteLine($"você deseja prosseguir para o cadastro de usuário? Selecione [s] - para Sim e [n] - para Não");
+                char opcaoUser = char.Parse(Console.ReadLine()!);
+
+                do
+                {
+                    if (opcaoUser == 's')
+                    {
+                        Carregamento(500, 5, "Redirecionando para tela de cadastro");
+                    }
+                    else
+                    {
+                        Console.WriteLine($"para prosseguir o usuário deverá realizar o cadastro na plataforma. Deseja prosseguir ?");
+                        opcaoUser = char.Parse(Console.ReadLine()!);
+
+                        if (opcaoUser == 's')
+                        {
+                            Carregamento(500, 5, "Redirecionando para tela de cadastro");
+                        }
+                        else
+                        {
+                            Console.WriteLine($"você deseja sair do programa? ");
+
+                            char sairDoPrograma = char.Parse(Console.ReadLine()!);
+
+                            for (var i = 0; opcaoUser == 5; opcaoUser++)
+                            {
+                                if (sairDoPrograma == 's')
+                                {
+                                    Console.WriteLine($"até mais!");
+
+                                }
+                            }
+                        }
+                    }
+                } while (opcaoUser != 's');
+
+
 
                 cadastroUser.CadastrarUsuario();
                 Console.WriteLine($"Usuário cadastrado com sucesso!");
@@ -95,14 +127,14 @@ namespace Projeto_CadastroProdutos_16_05
                 {
                     case "1":
                         //cadastro de produto
-        
+
                         Carregamento(500, 5, "redirecionando para tela de cadastro");
 
                         produto.CadastrarProduto();
 
                         break;
                     case "2":
-                      
+
                         Carregamento(500, 5, "Redirecionando para a tela de listagem de produtos");
                         //listagem de produto
 
@@ -110,7 +142,7 @@ namespace Projeto_CadastroProdutos_16_05
 
                         break;
                     case "3":
-                      
+
                         Carregamento(500, 5, "Redirecionando para realizar o delete dos produtos");
                         //deletar produto 
 
@@ -124,13 +156,13 @@ namespace Projeto_CadastroProdutos_16_05
                         marca.Cadastrar();
                         break;
                     case "5":
-                        
+
                         Carregamento(500, 5, "Redirecionando para a tela de listagem de marcas");
                         //listagem de marca
                         marca.Listar();
                         break;
                     case "6":
-                       
+
                         Carregamento(500, 5, "Redirecionando para a tela de delete de marcas");
                         //deletar marca
                         // marca.Deletar(int cod);
